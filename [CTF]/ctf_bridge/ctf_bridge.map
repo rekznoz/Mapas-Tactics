@@ -1,0 +1,87 @@
+<map edf:definitions="editor_main,tactics10">
+    <Anti_Rush_Point id="Anti_Rush_Point (1)" posX="2423.7475585938" posY="-2079.5092773438" posZ="12.546875" rotX="0" rotY="0" rotZ="0" />
+    <Anti_Rush_Point id="Anti_Rush_Point (2)" posX="2423.7900390625" posY="-2099.4555664063" posZ="12.546875" rotX="0" rotY="0" rotZ="0" />
+    <Anti_Rush_Point id="Anti_Rush_Point (3)" posX="2423.7819824219" posY="-2145.4067382813" posZ="12.546875" rotX="0" rotY="0" rotZ="0" />
+    <Anti_Rush_Point id="Anti_Rush_Point (4)" posX="2704.1616210938" posY="-2145.5705566406" posZ="10.0703125" rotX="0" rotY="0" rotZ="0" />
+    <Anti_Rush_Point id="Anti_Rush_Point (5)" posX="2704.2141113281" posY="-2065.33984375" posZ="12.063480377197" rotX="0" rotY="0" rotZ="0" />
+    <Anti_Rush_Point id="Anti_Rush_Point (6)" posX="2423.720703125" posY="-2065.30859375" posZ="12.553834915161" rotX="0" rotY="0" rotZ="0" />
+    <Central_Marker id="Central_Marker (1)" posX="2581.705078125" posY="-2116.6193847656" posZ="30.335273742676" rotX="0" rotY="0" rotZ="0" />
+    <Flag1 id="Flag1 (1)" posX="2442.9748535156" posY="-2078.2214355469" posZ="12.585272789001" rotX="0" rotY="0" rotZ="0" />
+    <Flag2 id="Flag2 (1)" posX="2697.8896484375" posY="-2088.5251464844" posZ="12.587191581726" rotX="0" rotY="0" rotZ="0" />
+    <Team2 id="Team2 (1)" posX="2691.2431640625" posY="-2120.0002441406" posZ="13.548793792725" rotX="0" rotY="0" rotZ="0" />
+    <Team2 id="Team2 (2)" posX="2693.1364746094" posY="-2120.0144042969" posZ="13.548793792725" rotX="0" rotY="0" rotZ="0" />
+    <Team2 id="Team2 (3)" posX="2691.1916503906" posY="-2118.9006347656" posZ="13.548793792725" rotX="0" rotY="0" rotZ="0" />
+    <Team2 id="Team2 (4)" posX="2693.1098632813" posY="-2118.9916992188" posZ="13.548793792725" rotX="0" rotY="0" rotZ="0" />
+    <Team2 id="Team2 (5)" posX="2691.2517089844" posY="-2117.8020019531" posZ="13.548793792725" rotX="0" rotY="0" rotZ="0" />
+    <Team2 id="Team2 (6)" posX="2693.0817871094" posY="-2117.8728027344" posZ="13.548793792725" rotX="0" rotY="0" rotZ="0" />
+    <Team2 id="Team2 (7)" posX="2691.2741699219" posY="-2116.6904296875" posZ="13.548793792725" rotX="0" rotY="0" rotZ="0" />
+    <Team2 id="Team2 (8)" posX="2693.083984375" posY="-2116.8093261719" posZ="13.548793792725" rotX="0" rotY="0" rotZ="0" />
+    <Team2 id="Team2 (9)" posX="2691.2990722656" posY="-2115.6740722656" posZ="13.548793792725" rotX="0" rotY="0" rotZ="0" />
+    <Team2 id="Team2 (10)" posX="2693.0710449219" posY="-2115.7414550781" posZ="13.548793792725" rotX="0" rotY="0" rotZ="0" />
+    <Team1 id="Team1 (1)" posX="2433.52734375" posY="-2086.6069335938" posZ="13.546875" rotX="0" rotY="0" rotZ="0" />
+    <Team1 id="Team1 (2)" posX="2431.6765136719" posY="-2086.6506347656" posZ="13.546875" rotX="0" rotY="0" rotZ="0" />
+    <Team1 id="Team1 (3)" posX="2433.6435546875" posY="-2087.9401855469" posZ="13.546875" rotX="0" rotY="0" rotZ="0" />
+    <Team1 id="Team1 (4)" posX="2431.7575683594" posY="-2087.9750976563" posZ="13.546875" rotX="0" rotY="0" rotZ="0" />
+    <Team1 id="Team1 (5)" posX="2433.666015625" posY="-2089.2788085938" posZ="13.546875" rotX="0" rotY="0" rotZ="0" />
+    <Team1 id="Team1 (6)" posX="2431.7497558594" posY="-2089.2739257813" posZ="13.546875" rotX="0" rotY="0" rotZ="0" />
+    <Team1 id="Team1 (7)" posX="2433.7512207031" posY="-2090.6179199219" posZ="13.546875" rotX="0" rotY="0" rotZ="0" />
+    <Team1 id="Team1 (8)" posX="2431.8310546875" posY="-2090.6015625" posZ="13.546875" rotX="0" rotY="0" rotZ="0" />
+    <Team1 id="Team1 (9)" posX="2433.7709960938" posY="-2091.8054199219" posZ="13.546875" rotX="0" rotY="0" rotZ="0" />
+    <Team1 id="Team1 (10)" posX="2431.8537597656" posY="-2091.9594726563" posZ="13.546875" rotX="0" rotY="0" rotZ="0" />
+    <object id="object (lasdkrt3) (1)" doublesided="false" model="3571" interior="0" dimension="0" posX="2570.1435546875" posY="-2119.798828125" posZ="13.864370346069" rotX="0" rotY="0" rotZ="179.99450683594" />
+    <object id="object (lasdkrt3) (2)" doublesided="false" model="3571" interior="0" dimension="0" posX="2594.0324707031" posY="-2114.3425292969" posZ="13.894815444946" rotX="0" rotY="0" rotZ="0" />
+    <object id="object (pol_comp_gate) (1)" doublesided="false" model="2933" interior="0" dimension="0" posX="2624.0561523438" posY="-2140.0153808594" posZ="14.262490272522" rotX="0" rotY="0" rotZ="89.5" />
+    <object id="object (pol_comp_gate) (2)" doublesided="false" model="2933" interior="0" dimension="0" posX="2624.1018066406" posY="-2131.4536132813" posZ="14.262490272522" rotX="0" rotY="0" rotZ="90" />
+    <object id="object (pol_comp_gate) (3)" doublesided="false" model="2933" interior="0" dimension="0" posX="2624.0725097656" posY="-2125.9890136719" posZ="14.262490272522" rotX="0" rotY="0" rotZ="90" />
+    <object id="object (pol_comp_gate) (4)" doublesided="false" model="2933" interior="0" dimension="0" posX="2624.0241699219" posY="-2070.7553710938" posZ="14.166955947876" rotX="0" rotY="0" rotZ="90" />
+    <object id="object (pol_comp_gate) (5)" doublesided="false" model="2933" interior="0" dimension="0" posX="2624.0517578125" posY="-2079.5766601563" posZ="14.262490272522" rotX="0" rotY="0" rotZ="90.25" />
+    <object id="object (pol_comp_gate) (6)" doublesided="false" model="2933" interior="0" dimension="0" posX="2624.0441894531" posY="-2088.1608886719" posZ="14.262490272522" rotX="0" rotY="0" rotZ="90" />
+    <object id="object (pol_comp_gate) (7)" doublesided="false" model="2933" interior="0" dimension="0" posX="2624.0261230469" posY="-2096.6989746094" posZ="14.106725692749" rotX="0" rotY="0" rotZ="90" />
+    <object id="object (pol_comp_gate) (8)" doublesided="false" model="2933" interior="0" dimension="0" posX="2624.0114746094" posY="-2105.4299316406" posZ="14.144753456116" rotX="0" rotY="0" rotZ="90" />
+    <object id="object (pol_comp_gate) (9)" doublesided="false" model="2933" interior="0" dimension="0" posX="2624.0451660156" posY="-2108.154296875" posZ="14.255330085754" rotX="0" rotY="0" rotZ="90" />
+    <object id="object (pol_comp_gate) (10)" doublesided="false" model="2933" interior="0" dimension="0" posX="2619.3078613281" posY="-2112.4453125" posZ="14.262490272522" rotX="0" rotY="0" rotZ="0" />
+    <object id="object (pol_comp_gate) (11)" doublesided="false" model="2933" interior="0" dimension="0" posX="2610.7409667969" posY="-2112.4379882813" posZ="14.250782012939" rotX="0" rotY="0" rotZ="0" />
+    <object id="object (pol_comp_gate) (12)" doublesided="false" model="2933" interior="0" dimension="0" posX="2606.5944824219" posY="-2112.4458007813" posZ="14.203842163086" rotX="0" rotY="0" rotZ="0" />
+    <object id="object (pol_comp_gate) (13)" doublesided="false" model="2933" interior="0" dimension="0" posX="2619.7492675781" posY="-2121.6135253906" posZ="14.262490272522" rotX="0" rotY="0" rotZ="0" />
+    <object id="object (pol_comp_gate) (14)" doublesided="false" model="2933" interior="0" dimension="0" posX="2611.2524414063" posY="-2121.6254882813" posZ="14.262490272522" rotX="0" rotY="0" rotZ="0" />
+    <object id="object (pol_comp_gate) (15)" doublesided="false" model="2933" interior="0" dimension="0" posX="2607.9604492188" posY="-2121.5952148438" posZ="14.31485748291" rotX="0" rotY="0" rotZ="0" />
+    <object id="object (pol_comp_gate) (16)" doublesided="false" model="2933" interior="0" dimension="0" posX="2584.7241210938" posY="-2121.640625" posZ="14.262490272522" rotX="0" rotY="0" rotZ="0" />
+    <object id="object (pol_comp_gate) (17)" doublesided="false" model="2933" interior="0" dimension="0" posX="2576.1977539063" posY="-2121.640625" posZ="14.262490272522" rotX="0" rotY="0" rotZ="0" />
+    <object id="object (pol_comp_gate) (18)" doublesided="false" model="2933" interior="0" dimension="0" posX="2554.9799804688" posY="-2112.4233398438" posZ="14.224271774292" rotX="0" rotY="0" rotZ="0" />
+    <object id="object (pol_comp_gate) (19)" doublesided="false" model="2933" interior="0" dimension="0" posX="2545.2944335938" posY="-2112.4453125" posZ="14.260583877563" rotX="0" rotY="0" rotZ="0" />
+    <object id="object (pol_comp_gate) (20)" doublesided="false" model="2933" interior="0" dimension="0" posX="2549.8093261719" posY="-2112.4482421875" posZ="14.255249977112" rotX="0" rotY="0" rotZ="0" />
+    <object id="object (pol_comp_gate) (21)" doublesided="false" model="2933" interior="0" dimension="0" posX="2554.5639648438" posY="-2121.640625" posZ="14.255249977112" rotX="0" rotY="0" rotZ="0" />
+    <object id="object (pol_comp_gate) (22)" doublesided="false" model="2933" interior="0" dimension="0" posX="2545.8017578125" posY="-2121.640625" posZ="14.255249977112" rotX="0" rotY="0" rotZ="0" />
+    <object id="object (pol_comp_gate) (23)" doublesided="false" model="2933" interior="0" dimension="0" posX="2540.8310546875" posY="-2126.0908203125" posZ="14.262490272522" rotX="0" rotY="0" rotZ="90" />
+    <object id="object (pol_comp_gate) (24)" doublesided="false" model="2933" interior="0" dimension="0" posX="2540.8640136719" posY="-2134.8205566406" posZ="14.225357055664" rotX="0" rotY="0" rotZ="90" />
+    <object id="object (pol_comp_gate) (25)" doublesided="false" model="2933" interior="0" dimension="0" posX="2540.9123535156" posY="-2139.8322753906" posZ="14.262490272522" rotX="0" rotY="0" rotZ="90" />
+    <object id="object (pol_comp_gate) (26)" doublesided="false" model="2933" interior="0" dimension="0" posX="2540.8891601563" posY="-2108.1823730469" posZ="14.262490272522" rotX="0" rotY="0" rotZ="90" />
+    <object id="object (pol_comp_gate) (27)" doublesided="false" model="2933" interior="0" dimension="0" posX="2540.8918457031" posY="-2099.5126953125" posZ="14.262490272522" rotX="0" rotY="0" rotZ="270" />
+    <object id="object (pol_comp_gate) (28)" doublesided="false" model="2933" interior="0" dimension="0" posX="2540.9020996094" posY="-2090.8510742188" posZ="14.262490272522" rotX="0" rotY="0" rotZ="270" />
+    <object id="object (pol_comp_gate) (29)" doublesided="false" model="2933" interior="0" dimension="0" posX="2540.9443359375" posY="-2082.1130371094" posZ="14.262490272522" rotX="0" rotY="0" rotZ="269.5" />
+    <object id="object (pol_comp_gate) (30)" doublesided="false" model="2933" interior="0" dimension="0" posX="2540.9594726563" posY="-2073.4904785156" posZ="14.262490272522" rotX="0" rotY="0" rotZ="270.25" />
+    <object id="object (pol_comp_gate) (31)" doublesided="false" model="2933" interior="0" dimension="0" posX="2540.994140625" posY="-2070.7416992188" posZ="14.154058456421" rotX="0" rotY="0" rotZ="270" />
+    <object id="object (pol_comp_gate) (32)" doublesided="false" model="2933" interior="0" dimension="0" posX="2585.5180664063" posY="-2112.4453125" posZ="14.262490272522" rotX="0" rotY="0" rotZ="0" />
+    <object id="object (pol_comp_gate) (33)" doublesided="false" model="2933" interior="0" dimension="0" posX="2576.9450683594" posY="-2112.4453125" posZ="14.262490272522" rotX="0" rotY="0" rotZ="0" />
+    <object id="object (vegasplant04) (1)" doublesided="false" model="6929" interior="0" dimension="0" posX="2581.9150390625" posY="-2113.0087890625" posZ="1.1999708414078" rotX="0" rotY="0" rotZ="270" />
+    <object id="object (DockBarr1_LA) (1)" doublesided="false" model="3578" interior="0" dimension="0" posX="2574.533203125" posY="-2145.4541015625" posZ="-0.39876461029053" rotX="0" rotY="0" rotZ="0" />
+    <object id="object (DockBarr1_LA) (2)" doublesided="false" model="3578" interior="0" dimension="0" posX="2584.8623046875" posY="-2145.4931640625" posZ="-0.45000004768372" rotX="0" rotY="0" rotZ="359.74731445313" />
+    <object id="object (DockBarr1_LA) (3)" doublesided="false" model="3578" interior="0" dimension="0" posX="2564.1987304688" posY="-2145.4262695313" posZ="-0.37500005960464" rotX="0" rotY="0" rotZ="0" />
+    <object id="object (DockBarr1_LA) (4)" doublesided="false" model="3578" interior="0" dimension="0" posX="2595.048828125" posY="-2145.5361328125" posZ="-0.4750000834465" rotX="0" rotY="0" rotZ="0" />
+    <object id="object (DockBarr1_LA) (5)" doublesided="false" model="3578" interior="0" dimension="0" posX="2605.3562011719" posY="-2145.5141601563" posZ="-0.46415436267853" rotX="0" rotY="0" rotZ="0" />
+    <object id="object (submarine) (1)" doublesided="false" model="1612" interior="0" dimension="0" posX="2579.0751953125" posY="-2260.5480957031" posZ="4.5" rotX="0" rotY="0" rotZ="0" />
+    <object id="object (DockBarr1_LA) (6)" doublesided="false" model="3578" interior="0" dimension="0" posX="2557.599609375" posY="-2145.4072265625" posZ="-0.37499997019768" rotX="0" rotY="0" rotZ="0" />
+    <object id="object (DockBarr1_LA) (7)" doublesided="false" model="3578" interior="0" dimension="0" posX="2609.5803222656" posY="-2145.5375976563" posZ="-0.4750000834465" rotX="0" rotY="0" rotZ="0" />
+    <object id="object (pol_comp_gate) (34)" doublesided="false" model="2933" interior="0" dimension="0" posX="2581.6108398438" posY="-2122.7946777344" posZ="5.8428573608398" rotX="0" rotY="0" rotZ="0" />
+    <object id="object (pol_comp_gate) (35)" doublesided="false" model="2933" interior="0" dimension="0" posX="2581.6042480469" posY="-2122.7854003906" posZ="8.9379329681396" rotX="0" rotY="0" rotZ="0" />
+    <object id="object (MODEL_BOX2) (1)" doublesided="false" model="2465" interior="0" dimension="0" posX="2425.59765625" posY="-2066.6599121094" posZ="12.791822433472" rotX="0" rotY="0" rotZ="0" />
+    <object id="object (MODEL_BOX3) (1)" doublesided="false" model="2466" interior="0" dimension="0" posX="2702.4514160156" posY="-2066.8989257813" posZ="12.68701171875" rotX="0" rotY="0" rotZ="324" />
+    <object id="object (sw_pipepile01) (1)" doublesided="false" model="12927" interior="0" dimension="0" posX="2447.4982910156" posY="-2116.0153808594" posZ="13.895427703857" rotX="0" rotY="0" rotZ="90" />
+    <object id="object (lasdkrt2) (1)" doublesided="false" model="3570" interior="0" dimension="0" posX="2507.7060546875" posY="-2105.3049316406" posZ="13.894815444946" rotX="0" rotY="0" rotZ="0" />
+    <object id="object (lasntrk3) (2)" doublesided="false" model="3569" interior="0" dimension="0" posX="2482.6796875" posY="-2105.51953125" posZ="15.160493850708" rotX="0" rotY="0" rotZ="92" />
+    <object id="object (DockCrates1_LA) (1)" doublesided="false" model="3577" interior="0" dimension="0" posX="2491.5178222656" posY="-2119.4592285156" posZ="13.329381942749" rotX="0" rotY="0" rotZ="0" />
+    <object id="object (turtle) (1)" doublesided="false" model="1609" interior="0" dimension="0" posX="2594.7219238281" posY="-2165.75" posZ="-0.76503098011017" rotX="0" rotY="0" rotZ="20" />
+    <object id="object (turtle) (2)" doublesided="false" model="1609" interior="0" dimension="0" posX="2594.6486816406" posY="-2165.5051269531" posZ="0" rotX="0" rotY="0" rotZ="18" />
+    <object id="object (shark) (2)" doublesided="false" model="1608" interior="0" dimension="0" posX="2602.4416503906" posY="-2220.1169433594" posZ="-1.0660948753357" rotX="0" rotY="0" rotZ="0" />
+    <object id="object (pol_comp_gate) (36)" doublesided="false" model="2933" interior="0" dimension="0" posX="2545.0866699219" posY="-2121.6123046875" posZ="14.316663742065" rotX="0" rotY="0" rotZ="0" />
+</map>

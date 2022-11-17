@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<meta>
+  <info type="map" gamemodes="race" name="Speedway" author="MadMax" description="Speedway track from old game &quot;Destruction Derby (1995)&quot; - 12 laps." />
+  <map src="Speedway.map" />
+  <settings>
+    <setting name="#weather" value="5" />
+    <setting name="#respawn" value="timelimit" />
+  </settings>
+</meta>

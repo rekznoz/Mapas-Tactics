@@ -1,0 +1,58 @@
+<map edf:definitions="editor_main,tactics">
+    <Anti_Rush_Point id="Anti_Rush_Point (1)" posX="2995.0639648438" posY="558.55877685547" posZ="0" rotX="0" rotY="0" rotZ="0" />
+    <Anti_Rush_Point id="Anti_Rush_Point (2)" posX="1436.7791748047" posY="556.98083496094" posZ="0" rotX="0" rotY="0" rotZ="0" />
+    <Anti_Rush_Point id="Anti_Rush_Point (3)" posX="1013.958984375" posY="645.84710693359" posZ="0" rotX="0" rotY="0" rotZ="0" />
+    <Anti_Rush_Point id="Anti_Rush_Point (4)" posX="167.60633850098" posY="527.03002929688" posZ="0" rotX="0" rotY="0" rotZ="0" />
+    <Anti_Rush_Point id="Anti_Rush_Point (5)" posX="152.50086975098" posY="1166.4146728516" posZ="14.06483745575" rotX="0" rotY="0" rotZ="0" />
+    <Anti_Rush_Point id="Anti_Rush_Point (6)" posX="452.06457519531" posY="1720.1197509766" posZ="31.841491699219" rotX="0" rotY="0" rotZ="0" />
+    <Anti_Rush_Point id="Anti_Rush_Point (7)" posX="587.70458984375" posY="1953.2548828125" posZ="58.466217041016" rotX="0" rotY="0" rotZ="0" />
+    <Anti_Rush_Point id="Anti_Rush_Point (8)" posX="571.22436523438" posY="3004.1474609375" posZ="0" rotX="0" rotY="0" rotZ="0" />
+    <Anti_Rush_Point id="Anti_Rush_Point (9)" posX="2984.5083007813" posY="2978.08203125" posZ="0" rotX="0" rotY="0" rotZ="0" />
+    <Team1 id="Team1 (1)" posX="2248.2739257813" posY="2450.7932128906" posZ="10.8203125" rotX="0" rotY="0" rotZ="0" />
+    <Team1 id="Team1 (2)" posX="2248.2407226563" posY="2452.5915527344" posZ="10.8203125" rotX="0" rotY="0" rotZ="0" />
+    <Team1 id="Team1 (3)" posX="2248.2692871094" posY="2454.482421875" posZ="10.8203125" rotX="0" rotY="0" rotZ="0" />
+    <Team1 id="Team1 (4)" posX="2250.8891601563" posY="2450.87890625" posZ="10.8203125" rotX="0" rotY="0" rotZ="0" />
+    <Team1 id="Team1 (5)" posX="2250.9597167969" posY="2452.8588867188" posZ="10.8203125" rotX="0" rotY="0" rotZ="0" />
+    <Team1 id="Team1 (6)" posX="2250.9389648438" posY="2454.7077636719" posZ="10.8203125" rotX="0" rotY="0" rotZ="0" />
+    <Team1 id="Team1 (7)" posX="2254.0046386719" posY="2452.796875" posZ="10.8203125" rotX="0" rotY="0" rotZ="0" />
+    <Team1 id="Team1 (8)" posX="2253.80859375" posY="2450.8940429688" posZ="10.8203125" rotX="0" rotY="0" rotZ="0" />
+    <Team1 id="Team1 (9)" posX="2257.1118164063" posY="2454.7180175781" posZ="10.8203125" rotX="0" rotY="0" rotZ="0" />
+    <Team1 id="Team1 (10)" posX="2253.9809570313" posY="2454.7768554688" posZ="10.8203125" rotX="0" rotY="0" rotZ="0" />
+    <Team1 id="Team1 (11)" posX="2257.0153808594" posY="2450.49609375" posZ="10.8203125" rotX="0" rotY="0" rotZ="0" />
+    <Team1 id="Team1 (12)" posX="2257.0483398438" posY="2452.4924316406" posZ="10.8203125" rotX="0" rotY="0" rotZ="0" />
+    <Team1 id="Team1 (13)" posX="2259.6450195313" posY="2454.4780273438" posZ="10.8203125" rotX="0" rotY="0" rotZ="0" />
+    <Team1 id="Team1 (14)" posX="2259.7475585938" posY="2452.3881835938" posZ="10.8203125" rotX="0" rotY="0" rotZ="0" />
+    <Team1 id="Team1 (15)" posX="2259.7114257813" posY="2450.5390625" posZ="10.8203125" rotX="0" rotY="0" rotZ="0" />
+    <Team1 id="Team1 (16)" posX="2238.9807128906" posY="2449.2941894531" posZ="11.037217140198" rotX="0" rotY="0" rotZ="0" />
+    <Team2 id="Team2 (1)" posX="1588.0307617188" posY="720.60913085938" posZ="10.8203125" rotX="0" rotY="0" rotZ="0" />
+    <Team2 id="Team2 (2)" posX="1588.0264892578" posY="718.16119384766" posZ="10.8203125" rotX="0" rotY="0" rotZ="0" />
+    <Team2 id="Team2 (3)" posX="1588.0270996094" posY="715.57592773438" posZ="10.8203125" rotX="0" rotY="0" rotZ="0" />
+    <Team2 id="Team2 (4)" posX="1590.02734375" posY="720.65209960938" posZ="10.8203125" rotX="0" rotY="0" rotZ="0" />
+    <Team2 id="Team2 (5)" posX="1589.3618164063" posY="718.03308105469" posZ="10.8203125" rotX="0" rotY="0" rotZ="0" />
+    <Team2 id="Team2 (6)" posX="1589.9912109375" posY="715.61291503906" posZ="10.8203125" rotX="0" rotY="0" rotZ="0" />
+    <Team2 id="Team2 (7)" posX="1591.8150634766" posY="720.76928710938" posZ="10.8203125" rotX="0" rotY="0" rotZ="0" />
+    <Team2 id="Team2 (8)" posX="1591.7452392578" posY="717.92248535156" posZ="10.8203125" rotX="0" rotY="0" rotZ="0" />
+    <Team2 id="Team2 (9)" posX="1591.6285400391" posY="715.49072265625" posZ="10.8203125" rotX="0" rotY="0" rotZ="0" />
+    <Team2 id="Team2 (10)" posX="1593.8031005859" posY="720.8896484375" posZ="10.8203125" rotX="0" rotY="0" rotZ="0" />
+    <Team2 id="Team2 (11)" posX="1593.3889160156" posY="718.00866699219" posZ="10.8203125" rotX="0" rotY="0" rotZ="0" />
+    <Team2 id="Team2 (12)" posX="1593.2785644531" posY="715.37371826172" posZ="10.8203125" rotX="0" rotY="0" rotZ="0" />
+    <Team2 id="Team2 (13)" posX="1595.7203369141" posY="720.82336425781" posZ="10.8203125" rotX="0" rotY="0" rotZ="0" />
+    <Team2 id="Team2 (14)" posX="1595.96484375" posY="718.22436523438" posZ="10.8203125" rotX="0" rotY="0" rotZ="0" />
+    <Team2 id="Team2 (15)" posX="1595.3577880859" posY="715.53979492188" posZ="10.8203125" rotX="0" rotY="0" rotZ="0" />
+    <Team2 id="Team2 (16)" posX="1590.7416992188" posY="723.06890869141" posZ="10.8203125" rotX="0" rotY="0" rotZ="0" />
+    <Central_Marker id="Central_Marker (1)" posX="1962.9191894531" posY="1748.6324462891" posZ="17.972274780273" rotX="0" rotY="0" rotZ="0" />
+    <vehicle id="vehicle (Jester) (1)" paintjob="3" model="559" plate="WVHG YWG" interior="0" dimension="0" color="0,0,0,0" posX="2368.0583496094" posY="1005.4284667969" posZ="10.574376106262" rotX="0" rotY="0" rotZ="270" />
+    <vehicle id="vehicle (Uranus) (1)" paintjob="3" model="558" plate="ZSF7 WH7" interior="0" dimension="0" posX="2362.1525878906" posY="649.06457519531" posZ="11.053030967712" rotX="0" rotY="0" rotZ="180" />
+    <vehicle id="vehicle (Super GT) (1)" paintjob="3" model="506" plate="EWVI IV4" interior="0" dimension="0" posX="1580.0991210938" posY="941.80560302734" posZ="10.612425804138" rotX="0" rotY="0" rotZ="90" />
+    <vehicle id="vehicle (Elegy) (1)" paintjob="3" model="562" plate="SKLX TDM" interior="0" dimension="0" posX="1095.4045410156" posY="1206.6500244141" posZ="10.573862075806" rotX="0" rotY="0" rotZ="0" />
+    <vehicle id="vehicle (Sultan) (1)" paintjob="3" model="560" plate="704Y TDT" interior="0" dimension="0" posX="641.85144042969" posY="1241.3793945313" posZ="11.464467048645" rotX="0" rotY="0" rotZ="0" />
+    <vehicle id="vehicle (Flash) (1)" paintjob="3" model="565" plate="1Q8H KFJ" interior="0" dimension="0" posX="782.54156494141" posY="1894.9744873047" posZ="4.7481851577759" rotX="0" rotY="0" rotZ="90" />
+    <vehicle id="vehicle (Jester) (2)" paintjob="3" model="559" plate="4DPB THT" interior="0" dimension="0" posX="1020.0219726563" posY="1967.0915527344" posZ="10.80468082428" rotX="0" rotY="0" rotZ="280" />
+    <vehicle id="vehicle (Uranus) (2)" paintjob="3" model="558" plate="6189 7MQ" interior="0" dimension="0" posX="1613.2124023438" posY="2197.236328125" posZ="10.524104118347" rotX="0" rotY="0" rotZ="90" />
+    <vehicle id="vehicle (Sultan) (2)" paintjob="3" model="560" plate="BZQA Z3Q" interior="0" dimension="0" posX="1688.7608642578" posY="1935.6900634766" posZ="10.625288009644" rotX="0" rotY="0" rotZ="0" />
+    <vehicle id="vehicle (Super GT) (2)" paintjob="3" model="506" plate="58KW Y0B" interior="0" dimension="0" posX="2100.4162597656" posY="1978.9971923828" posZ="10.463988304138" rotX="0" rotY="0" rotZ="180" />
+    <vehicle id="vehicle (Flash) (2)" paintjob="3" model="565" plate="JQ3B 09I" interior="0" dimension="0" posX="2372.1140136719" posY="2021.9802246094" posZ="10.512243270874" rotX="0" rotY="0" rotZ="90" />
+    <vehicle id="vehicle (Jester) (3)" paintjob="3" model="559" plate="70TX GLL" interior="0" dimension="0" posX="2505.630859375" posY="1647.9163818359" posZ="10.574376106262" rotX="0" rotY="0" rotZ="0" />
+    <vehicle id="vehicle (Elegy) (2)" paintjob="3" model="562" plate="2EAO HC1" interior="0" dimension="0" posX="2510.8071289063" posY="2290.5769042969" posZ="10.573862075806" rotX="0" rotY="0" rotZ="270" />
+    <vehicle id="vehicle (Flash) (3)" paintjob="3" model="565" plate="TMEP HTF" interior="0" dimension="0" posX="1943.255859375" posY="2200.3852539063" posZ="10.512243270874" rotX="0" rotY="0" rotZ="90" />
+</map>

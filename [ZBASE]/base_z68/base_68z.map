@@ -1,0 +1,29 @@
+<map edf:definitions="BaseMode,editor_main">
+    <object id="object (sf_jump) (1)" doublesided="false" model="3852" interior="0" dimension="0" posX="2484.6884765625" posY="2734.818359375" posZ="11.279551506042" rotX="0" rotY="0" rotZ="91.7138671875" />
+    <object id="object (vgnplcehldbox01) (1)" doublesided="false" model="7040" interior="0" dimension="0" posX="2491.06640625" posY="2790.1259765625" posZ="12.948097229004" rotX="0" rotY="0" rotZ="270.31311035156" />
+    <object id="object (vgnplcehldbox01) (2)" doublesided="false" model="7040" interior="0" dimension="0" posX="2754.6860351563" posY="2745.5686035156" posZ="12.873098373413" rotX="0" rotY="0" rotZ="270.31311035156" />
+    <object id="object (vgnplcehldbox01) (3)" doublesided="false" model="7040" interior="0" dimension="0" posX="2699.5437011719" posY="2739.6501464844" posZ="12.873098373413" rotX="0" rotY="0" rotZ="89.772979736328" />
+    <Team2 id="Team2 (1)" interior="0" posX="2586.609375" posY="2845.8278808594" posZ="10.800000190735" rotX="0" rotY="0" rotZ="0" />
+    <Team2 id="Team2 (2)" interior="0" posX="2584.6274414063" posY="2843.5036621094" posZ="10.8203125" rotX="0" rotY="0" rotZ="0" />
+    <Team2 id="Team2 (3)" interior="0" posX="2595.1953125" posY="2841.2849121094" posZ="10.8203125" rotX="0" rotY="0" rotZ="0" />
+    <Team2 id="Team2 (4)" interior="0" posX="2594.0305175781" posY="2842.6782226563" posZ="10.8203125" rotX="0" rotY="0" rotZ="0" />
+    <Team2 id="Team2 (5)" interior="0" posX="2594.3364257813" posY="2843.4418945313" posZ="10.8203125" rotX="0" rotY="0" rotZ="0" />
+    <Team2 id="Team2 (6)" interior="0" posX="2596.3840332031" posY="2842.0168457031" posZ="10.8203125" rotX="0" rotY="0" rotZ="0" />
+    <Team2 id="Team2 (7)" interior="0" posX="2588.36" posY="2844.82" posZ="10.8203125" rotX="0" rotY="0" rotZ="0" />
+    <Team2 id="Team2 (8)" interior="0" posX="2580.5251464844" posY="2840.6518554688" posZ="10.8203125" rotX="0" rotY="0" rotZ="0" />
+    <Team2 id="Team2 (9)" interior="0" posX="2594.7385253906" posY="2840.35546875" posZ="10.8203125" rotX="0" rotY="0" rotZ="0" />
+    <Team2 id="Team2 (10)" interior="0" posX="2583.359375" posY="2845.8193359375" posZ="10.8203125" rotX="0" rotY="0" rotZ="99.695434570313" />
+    <Central_Marker id="Central_Marker (1)" interior="0" posX="2583.359375" posY="2845.8193359375" posZ="9.8000001907349" rotX="0" rotY="0" rotZ="1.9849853515625" />
+    <Team1 id="Team1 (1)" interior="0" posX="1386.7268066406" posY="1608.4583740234" posZ="10.8125" rotX="0" rotY="0" rotZ="0" />
+    <Team1 id="Team1 (2)" interior="0" posX="1387.412109375" posY="1555.6578369141" posZ="10.8125" rotX="0" rotY="0" rotZ="0" />
+    <Team1 id="Team1 (3)" interior="0" posX="1388.9996337891" posY="1498.0579833984" posZ="10.8203125" rotX="0" rotY="0" rotZ="0" />
+    <Team1 id="Team1 (4)" interior="0" posX="1430.7486572266" posY="1509.9493408203" posZ="10.8203125" rotX="0" rotY="0" rotZ="0" />
+    <Team1 id="Team1 (5)" interior="0" posX="1477.4078369141" posY="1496.6353759766" posZ="10.8203125" rotX="0" rotY="0" rotZ="0" />
+    <Team1 id="Team1 (6)" interior="0" posX="1477.4085693359" posY="1574.4927978516" posZ="10.8125" rotX="0" rotY="0" rotZ="0" />
+    <Team1 id="Team1 (7)" interior="0" posX="1477.1669921875" posY="1638.8693847656" posZ="10.8125" rotX="0" rotY="0" rotZ="0" />
+    <Team1 id="Team1 (8)" interior="0" posX="1477.5836181641" posY="1708.9221191406" posZ="10.8125" rotX="0" rotY="0" rotZ="0" />
+    <Team1 id="Team1 (9)" interior="0" posX="1477.5809326172" posY="1776.2467041016" posZ="10.8125" rotX="0" rotY="0" rotZ="0" />
+    <Team1 id="Team1 (10)" interior="0" posX="1409.2958984375" posY="1818.9818115234" posZ="10.8203125" rotX="0" rotY="0" rotZ="0" />
+    <object id="object (des_gravelpile05) (1)" doublesided="false" model="16304" interior="0" dimension="0" posX="2497.2119140625" posY="2772.6220703125" posZ="14.886134147644" rotX="0" rotY="0" rotZ="73.759979248047" />
+    <Team2 id="Team2 (10)" interior="0" posX="2581.4038085938" posY="2844.7075195313" posZ="10.8203125" rotX="0" rotY="0" rotZ="99.695434570313" />
+</map>

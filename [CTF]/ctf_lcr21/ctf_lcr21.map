@@ -1,0 +1,15 @@
+<map edf:definitions="tactics20">
+    <Flag1 id="Flag1 (1)" posX="-833.47241210938" posY="532.46826171875" posZ="1357.1363525391" rotX="0" rotY="0" rotZ="0" />
+    <Team1 id="Team1 (1)" posX="-836.44927978516" posY="518.59729003906" posZ="1357.1402587891" rotX="0" rotY="0" rotZ="0" />
+    <Team1 id="Team1 (2)" posX="-835.12249755859" posY="517.64691162109" posZ="1357.3033447266" rotX="0" rotY="0" rotZ="0" />
+    <Team1 id="Team1 (3)" posX="-833.71862792969" posY="517.83392333984" posZ="1357.2716064453" rotX="0" rotY="0" rotZ="0" />
+    <Team1 id="Team1 (4)" posX="-831.99346923828" posY="517.95812988281" posZ="1357.2508544922" rotX="0" rotY="0" rotZ="0" />
+    <Team1 id="Team1 (5)" posX="-837.90789794922" posY="518.25152587891" posZ="1357.1990966797" rotX="0" rotY="0" rotZ="0" />
+    <Central_Marker id="Central_Marker (1)" posX="-803.45983886719" posY="494.4035949707" posZ="1360.158203125" rotX="0" rotY="0" rotZ="0" />
+    <Flag2 id="Flag2 (1)" posX="-786.83947753906" posY="488.78659057617" posZ="1375.2337646484" rotX="0" rotY="0" rotZ="0" />
+    <Team2 id="Team2 (1)" posX="-785.55285644531" posY="494.57675170898" posZ="1376.1953125" rotX="0" rotY="0" rotZ="0" />
+    <Team2 id="Team2 (2)" posX="-787.56848144531" posY="495.11499023438" posZ="1376.1953125" rotX="0" rotY="0" rotZ="0" />
+    <Team2 id="Team2 (3)" posX="-786.26251220703" posY="496.52191162109" posZ="1376.1953125" rotX="0" rotY="0" rotZ="0" />
+    <Team2 id="Team2 (4)" posX="-789.23559570313" posY="495.0625" posZ="1376.1953125" rotX="0" rotY="0" rotZ="0" />
+    <Team2 id="Team2 (5)" posX="-789.85504150391" posY="496.41714477539" posZ="1376.1953125" rotX="0" rotY="0" rotZ="0" />
+</map>

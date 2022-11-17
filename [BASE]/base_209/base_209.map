@@ -1,0 +1,46 @@
+<map edf:definitions="BaseMode,editor_main">
+    
+        <Team1 id="Team1 (1)" interior="0" posX="-1377.9074707031" posY="-44.597816467285" posZ="14.1484375" rotX="0" rotY="0" rotZ="0" />
+    <Team1 id="Team1 (2)" interior="0" posX="-1432.4816894531" posY="-8.3469800949097" posZ="14.1484375" rotX="0" rotY="0" rotZ="0" />
+    <Team1 id="Team1 (3)" interior="0" posX="-1307.7048339844" posY="-63.474315643311" posZ="14.1484375" rotX="0" rotY="0" rotZ="0" />
+    <Team1 id="Team1 (4)" interior="0" posX="-1352.9301757813" posY="-133.79753112793" posZ="14.1484375" rotX="0" rotY="0" rotZ="0" />
+    <Team1 id="Team1 (5)" interior="0" posX="-1317.7719726563" posY="-149.0304107666" posZ="14.1484375" rotX="0" rotY="0" rotZ="0" />
+    <Team1 id="Team1 (6)" interior="0" posX="-1273.2214355469" posY="-120.34047698975" posZ="14.14396572113" rotX="0" rotY="0" rotZ="0" />
+    <Team1 id="Team1 (7)" interior="0" posX="-1267.8294677734" posY="-191.78994750977" posZ="14.1484375" rotX="0" rotY="0" rotZ="0" />
+    <Team1 id="Team1 (8)" interior="0" posX="-1434.0129394531" posY="-100.59053039551" posZ="14.1484375" rotX="0" rotY="0" rotZ="0" />
+    <Team1 id="Team1 (9)" interior="0" posX="-1508.7077636719" posY="-136.23722839355" posZ="14.1484375" rotX="0" rotY="0" rotZ="0" />
+    <Team1 id="Team1 (10)" interior="0" posX="-1610.7357177734" posY="-210.41865539551" posZ="14.1484375" rotX="0" rotY="0" rotZ="0" />
+    <Central_Marker id="Central_Marker (1)" interior="0" posX="-2536.4853515625" posY="52.648193359375" posZ="7.5921950340271" rotX="0" rotY="0" rotZ="0" />
+
+
+    
+    <object id="object (CARRIER_DOOR_SFSE) (1)" doublesided="false" model="3113" interior="0" dimension="0" posX="-2537.021484375" posY="52.804294586182" posZ="12.808586120605" rotX="358.53228759766" rotY="285.43212890625" rotZ="178.69885253906" />
+    <object id="object (CARRIER_DOOR_SFSE) (4)" doublesided="false" model="3113" interior="0" dimension="0" posX="-2537.5083007813" posY="52.753475189209" posZ="14.473096847534" rotX="358.53228759766" rotY="285.43212890625" rotZ="178.69885253906" />
+    <object id="object (lib_veg3) (1)" doublesided="false" model="3920" interior="0" dimension="0" posX="-2541.2434082031" posY="51.859920501709" posZ="13.961790084839" rotX="0" rotY="0" rotZ="87.25" />
+    <object id="object (lib_veg3) (3)" doublesided="false" model="3920" interior="0" dimension="0" posX="-2541.0031738281" posY="51.60627746582" posZ="13.111768722534" rotX="0" rotY="0" rotZ="87.247924804688" />
+    <object id="object (lib_veg3) (2)" doublesided="false" model="3920" interior="0" dimension="0" posX="-2540.7963867188" posY="52.129886627197" posZ="12.06178855896" rotX="0" rotY="0" rotZ="87.247924804688" />
+    <object id="object (flower-bush09) (1)" doublesided="false" model="14402" interior="0" dimension="0" posX="-2539.8498535156" posY="52.609111785889" posZ="15.514003753662" rotX="0" rotY="0" rotZ="0" />
+    <object id="object (flower-bush09) (2)" doublesided="false" model="14402" interior="0" dimension="0" posX="-2537.5981445313" posY="52.675224304199" posZ="15.457251548767" rotX="0" rotY="0" rotZ="0" />
+    <object id="object (flower-bush09) (3)" doublesided="false" model="14402" interior="0" dimension="0" posX="-2535.4248046875" posY="52.546836853027" posZ="15.550290107727" rotX="0" rotY="0" rotZ="0" />
+    <object id="object (flower-bush09) (4)" doublesided="false" model="14402" interior="0" dimension="0" posX="-2532.8928222656" posY="52.440998077393" posZ="15.949131011963" rotX="0" rotY="0" rotZ="0" />
+    <object id="object (DEAD_TREE_7) (1)" doublesided="false" model="834" interior="0" dimension="0" posX="-2532.880859375" posY="54.453384399414" posZ="10.161935806274" rotX="0" rotY="0" rotZ="0" />
+    <object id="object (sm_veg_tree7_big) (1)" doublesided="false" model="703" interior="0" dimension="0" posX="-2535.2639160156" posY="52.419723510742" posZ="14.838800430298" rotX="0" rotY="346" rotZ="0" />
+    <object id="object (lib_veg3) (4)" doublesided="false" model="3920" interior="0" dimension="0" posX="-2531.5129394531" posY="55.441440582275" posZ="12.052406311035" rotX="0" rotY="0" rotZ="87.247924804688" />
+    <object id="object (lib_veg3) (5)" doublesided="false" model="3920" interior="0" dimension="0" posX="-2534.6257324219" posY="55.173488616943" posZ="12.269914627075" rotX="0" rotY="0" rotZ="0.4979248046875" />
+    <object id="object (lib_veg3) (6)" doublesided="false" model="3920" interior="0" dimension="0" posX="-2533.7041015625" posY="50.420555114746" posZ="12.273070335388" rotX="0" rotY="0" rotZ="180.24438476563" />
+    <object id="object (lib_veg3) (7)" doublesided="false" model="3920" interior="0" dimension="0" posX="-2541.4548339844" posY="54.348648071289" posZ="14.886787414551" rotX="80.736511230469" rotY="356.89245605469" rotZ="90.315063476563" />
+    <object id="object (cmdgrgdoor_lvs) (1)" doublesided="false" model="9093" interior="0" dimension="0" posX="-2536.1567382813" posY="68.742797851563" posZ="10.911340713501" rotX="0" rotY="0" rotZ="92.25" />
+    <object id="object (cmdgrgdoor_lvs) (2)" doublesided="false" model="9093" interior="0" dimension="0" posX="-2536.0874023438" posY="67.619338989258" posZ="14.053624153137" rotX="359.60333251953" rotY="322.49896240234" rotZ="92.442321777344" />
+    <object id="object (lib_veg3) (8)" doublesided="false" model="3920" interior="0" dimension="0" posX="-2536.5446777344" posY="67.939788818359" posZ="13.343270301819" rotX="43.991577148438" rotY="1.3900451660156" rotZ="0.28237915039063" />
+
+    <Team2 id="Team2 (1)" interior="0" posX="-2535.3142089844" posY="40.279495239258" posZ="8.1570377349854" rotX="0" rotY="0" rotZ="0" />
+    <Team2 id="Team2 (2)" interior="0" posX="-2534.240234375" posY="40.355892181396" posZ="8.1570377349854" rotX="0" rotY="0" rotZ="0" />
+    <Team2 id="Team2 (3)" interior="0" posX="-2536.8657226563" posY="42.404903411865" posZ="8.1570377349854" rotX="0" rotY="0" rotZ="0" />
+    <Team2 id="Team2 (4)" interior="0" posX="-2535.5280761719" posY="42.398262023926" posZ="8.1570377349854" rotX="0" rotY="0" rotZ="0" />
+    <Team2 id="Team2 (5)" interior="0" posX="-2534.1479492188" posY="42.221717834473" posZ="8.1570377349854" rotX="0" rotY="0" rotZ="0" />
+    <Team2 id="Team2 (6)" interior="0" posX="-2533.0617675781" posY="42.175735473633" posZ="8.1570377349854" rotX="0" rotY="0" rotZ="0" />
+    <Team2 id="Team2 (7)" interior="0" posX="-2537.1994628906" posY="44.867202758789" posZ="8.1570377349854" rotX="0" rotY="0" rotZ="0" />
+    <Team2 id="Team2 (8)" interior="0" posX="-2535.5612792969" posY="44.731376647949" posZ="8.1570377349854" rotX="0" rotY="0" rotZ="0" />
+    <Team2 id="Team2 (9)" interior="0" posX="-2534.0964355469" posY="44.693672180176" posZ="8.1570377349854" rotX="0" rotY="0" rotZ="0" />
+    <Team2 id="Team2 (10)" interior="0" posX="-2532.8525390625" posY="44.765518188477" posZ="8.1570377349854" rotX="0" rotY="0" rotZ="0" />
+</map>

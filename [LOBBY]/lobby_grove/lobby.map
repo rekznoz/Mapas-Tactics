@@ -1,0 +1,34 @@
+<map edf:definitions="tactics10">
+    <spawnpoint posX="2503.7219" posY="-1679.5065" posZ="13.3794" />
+    <spawnpoint posX="2501.5507" posY="-1673.4127" posZ="13.3543" />
+    <spawnpoint posX="2505.4724" posY="-1673.8280" posZ="13.3678" />
+    <spawnpoint posX="2475.8723" posY="-1671.7031" posZ="13.3381" />
+    <spawnpoint posX="2475.3559" posY="-1663.9716" posZ="13.3263" />
+    <spawnpoint posX="2487.2478" posY="-1680.3735" posZ="13.3350" />
+    <spawnpoint posX="2482.6118" posY="-1660.3397" posZ="13.3437" />
+    <spawnpoint posX="2499.3747" posY="-1681.0789" posZ="13.3632" />
+    <spawnpoint posX="2505.0629" posY="-1667.2762" posZ="13.3702" />
+    <spawnpoint posX="2497.5380" posY="-1676.1694" posZ="13.3399" />
+    <spawnpoint posX="2490.9091" posY="-1677.3970" posZ="13.3372" />
+    <spawnpoint posX="2500.7216" posY="-1665.1071" posZ="13.3596" />
+    <spawnpoint posX="2492.6516" posY="-1658.7023" posZ="13.3499" />
+    <spawnpoint posX="2476.6562" posY="-1680.5079" posZ="13.3366" />
+    <spawnpoint posX="2473.0024" posY="-1678.0202" posZ="13.3334" />
+    <spawnpoint posX="2473.4128" posY="-1656.3449" posZ="13.3356" />
+    <spawnpoint posX="2490.0605" posY="-1663.1440" posZ="13.3359" />
+    <spawnpoint posX="2478.8017" posY="-1665.7325" posZ="13.3311" />
+    <spawnpoint posX="2492.9553" posY="-1668.1555" posZ="13.3437" />
+    <spawnpoint posX="2481.1477" posY="-1668.7756" posZ="13.3374" />
+    <spawnpoint posX="2493.2077" posY="-1672.0819" posZ="13.3359" />
+    <spawnpoint posX="2482.8432" posY="-1674.1134" posZ="13.3359" />
+    <spawnpoint posX="2478.0339" posY="-1660.7136" posZ="13.3437" />
+    <spawnpoint posX="2486.8017" posY="-1671.2760" posZ="13.3359" />
+    <spawnpoint posX="2471.7243" posY="-1669.6290" posZ="13.3174" />
+    <spawnpoint posX="2472.0759" posY="-1663.0516" posZ="13.3250" />
+    <spawnpoint posX="2478.1901" posY="-1656.4031" posZ="13.3195" />
+    <spawnpoint posX="2485.6230" posY="-1656.5373" posZ="13.3394" />
+    <spawnpoint posX="2485.9345" posY="-1666.4654" posZ="13.3437" />
+    <spawnpoint posX="2505.6838" posY="-1663.6158" posZ="13.4006" />
+    <spawnpoint posX="2499.8837" posY="-1658.6182" posZ="13.3721" />
+    <spawnpoint posX="2497.1811" posY="-1665.8878" posZ="13.3437" />
+</map>

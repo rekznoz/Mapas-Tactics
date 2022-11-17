@@ -1,0 +1,32 @@
+<map edf:definitions="BaseMode">
+    <Team1 id="Team1 (1)" interior="0" posX="1815.51953125" posY="-1114.0067138672" posZ="24.078125" rotX="0" rotY="0" rotZ="0" />
+    <Team1 id="Team1 (2)" interior="0" posX="1818.5047607422" posY="-1113.9587402344" posZ="24.078125" rotX="0" rotY="0" rotZ="0" />
+    <Team1 id="Team1 (3)" interior="0" posX="1821.6036376953" posY="-1113.9812011719" posZ="24.078125" rotX="0" rotY="0" rotZ="0" />
+    <Team1 id="Team1 (4)" interior="0" posX="1820.25" posY="-1115.5708007813" posZ="24.078125" rotX="0" rotY="0" rotZ="0" />
+    <Team1 id="Team1 (5)" interior="0" posX="1816.958984375" posY="-1115.7983398438" posZ="24.078125" rotX="0" rotY="0" rotZ="0" />
+    <Team1 id="Team1 (6)" interior="0" posX="1818.4533691406" posY="-1117.5201416016" posZ="24.078125" rotX="0" rotY="0" rotZ="0" />
+    <Team1 id="Team1 (7)" interior="0" posX="1815.2525634766" posY="-1117.5581054688" posZ="24.078125" rotX="0" rotY="0" rotZ="0" />
+    <Team1 id="Team1 (8)" interior="0" posX="1821.626953125" posY="-1117.55078125" posZ="24.078125" rotX="0" rotY="0" rotZ="0" />
+    <Team1 id="Team1 (9)" interior="0" posX="1816.6313476563" posY="-1119.9045410156" posZ="24.078125" rotX="0" rotY="0" rotZ="0" />
+    <Team1 id="Team1 (10)" interior="0" posX="1819.8654785156" posY="-1119.9582519531" posZ="24.078125" rotX="0" rotY="0" rotZ="0" />
+    <Central_Marker id="Central_Marker (2)" posX="1263.9759521484" posY="-1667.4376220703" posZ="12.585272789001" rotX="0" rotY="0" rotZ="0" />
+    <Team2 id="Team2 (11)" posX="1235.5458984375" posY="-1649.1053466797" posZ="11.796875" rotX="0" rotY="0" rotZ="0" />
+    <Team2 id="Team2 (12)" interior="0" posX="1235.4990234375" posY="-1651.0100097656" posZ="11.796875" rotX="0" rotY="0" rotZ="0" />
+    <Team2 id="Team2 (13)" interior="0" posX="1235.6539306641" posY="-1653.2811279297" posZ="11.796875" rotX="0" rotY="0" rotZ="0" />
+    <Team2 id="Team2 (14)" interior="0" posX="1233.2608642578" posY="-1649.080078125" posZ="11.796875" rotX="0" rotY="0" rotZ="0" />
+    <Team2 id="Team2 (15)" interior="0" posX="1232.9223632813" posY="-1650.9837646484" posZ="11.796875" rotX="0" rotY="0" rotZ="0" />
+    <Team2 id="Team2 (16)" interior="0" posX="1232.8161621094" posY="-1653.0484619141" posZ="11.796875" rotX="0" rotY="0" rotZ="0" />
+    <Team2 id="Team2 (17)" interior="0" posX="1231.2270507813" posY="-1649.1052246094" posZ="11.796875" rotX="0" rotY="0" rotZ="0" />
+    <Team2 id="Team2 (18)" interior="0" posX="1230.7758789063" posY="-1651.0339355469" posZ="11.796875" rotX="0" rotY="0" rotZ="0" />
+    <Team2 id="Team2 (19)" interior="0" posX="1230.1990966797" posY="-1653.5931396484" posZ="11.796875" rotX="0" rotY="0" rotZ="0" />
+    <Team2 id="Team2 (20)" interior="0" posX="1229.2923583984" posY="-1648.5640869141" posZ="11.796875" rotX="0" rotY="0" rotZ="0" />
+    <Team2 id="Team2 (21)" interior="0" posX="1228.5594482422" posY="-1650.8468017578" posZ="11.796875" rotX="0" rotY="0" rotZ="0" />
+    <Team2 id="Team2 (22)" interior="0" posX="1227.9412841797" posY="-1652.9910888672" posZ="11.796875" rotX="0" rotY="0" rotZ="0" />
+    <Team2 id="Team2 (23)" interior="0" posX="1240.4595947266" posY="-1648.7846679688" posZ="11.80127620697" rotX="0" rotY="0" rotZ="0" />
+    <Team2 id="Team2 (24)" interior="0" posX="1239.9610595703" posY="-1651.7843017578" posZ="11.80127620697" rotX="0" rotY="0" rotZ="0" />
+    <Team2 id="Team2 (25)" interior="0" posX="1240.0991210938" posY="-1654.3204345703" posZ="11.80127620697" rotX="0" rotY="0" rotZ="0" />
+    <Team2 id="Team2 (26)" interior="0" posX="1239.1486816406" posY="-1656.4167480469" posZ="11.796875" rotX="0" rotY="0" rotZ="0" />
+    <Team2 id="Team2 (27)" interior="0" posX="1234.6412353516" posY="-1657.0888671875" posZ="11.796875" rotX="0" rotY="0" rotZ="0" />
+    <Team2 id="Team2 (28)" interior="0" posX="1229.7086181641" posY="-1655.7172851563" posZ="11.796875" rotX="0" rotY="0" rotZ="0" />
+    <Team2 id="Team2 (29)" interior="0" posX="1227.6575927734" posY="-1654.4818115234" posZ="11.796875" rotX="0" rotY="0" rotZ="0" />
+</map>

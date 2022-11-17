@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-16"?>
+<meta>
+  <info type="map" gamemodes="race" name="Night Driving 3" author="Metatron" description="Copyright belongs to Metatron" />
+  <map src="Night Driving 3.map" />
+  <settings>
+    <setting name="#time" value="2:0" />
+    <setting name="#weather" value="2" />
+    <setting name="#respawn" value="timelimit" />
+    <setting name="#respawntime" value="3" />
+  </settings>
+</meta>

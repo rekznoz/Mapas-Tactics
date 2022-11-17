@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-16"?>
+<meta>
+  <info type="map" gamemodes="race" name="HOTRING[Street Series LS GP]" author="MadMax(darles92)" description="HOTRING Racing of San Andreas Series Tour - Los Santos Street GP - 32 cars." />
+  <map src="HOTRING[Street Series LS GP].map" />
+  <settings>
+    <setting name="#time" value="10:0" />
+    <setting name="#weather" value="3" />
+    <setting name="#respawn" value="timelimit" />
+    <setting name="#duration" value="4294966" />
+  </settings>
+</meta>

@@ -1,0 +1,34 @@
+<map edf:definitions="editor_main,tactics10">
+    <Central_Marker id="Central_Marker (1)" posX="2597.3757324219" posY="740.7607421875" posZ="15.235090255737" rotX="0" rotY="0" rotZ="0" />
+    <Anti_Rush_Point id="Anti_Rush_Point (1)" posX="2517.4011230469" posY="763.21453857422" posZ="11.322186470032" rotX="0" rotY="0" rotZ="0" />
+    <Anti_Rush_Point id="Anti_Rush_Point (2)" posX="2517.5085449219" posY="703.27532958984" posZ="11.322276115417" rotX="0" rotY="0" rotZ="0" />
+    <Anti_Rush_Point id="Anti_Rush_Point (3)" posX="2677.1147460938" posY="703.29870605469" posZ="11.322294235229" rotX="0" rotY="0" rotZ="0" />
+    <Anti_Rush_Point id="Anti_Rush_Point (4)" posX="2677.2548828125" posY="763.1015625" posZ="11.322294235229" rotX="0" rotY="0" rotZ="0" />
+    <Anti_Rush_Point id="Anti_Rush_Point (5)" posX="2652.0319824219" posY="763.16955566406" posZ="11.322294235229" rotX="0" rotY="0" rotZ="0" />
+    <Anti_Rush_Point id="Anti_Rush_Point (6)" posX="2607.1613769531" posY="763.16442871094" posZ="9.8203125" rotX="0" rotY="0" rotZ="0" />
+    <Anti_Rush_Point id="Anti_Rush_Point (9)" posX="2543.2697753906" posY="763.16485595703" posZ="10.0234375" rotX="0" rotY="0" rotZ="0" />
+    <Flag1 id="Flag1 (1)" posX="2529.0231933594" posY="746.26110839844" posZ="13.777986526489" rotX="0" rotY="0" rotZ="0" />
+    <Flag2 id="Flag2 (1)" posX="2662.96875" posY="746.07318115234" posZ="13.777986526489" rotX="0" rotY="0" rotZ="0" />
+    <Team1 id="Team1 (1)" posX="2520.76171875" posY="759.98114013672" posZ="11.0234375" rotX="0" rotY="0" rotZ="0" />
+    <Team1 id="Team1 (2)" posX="2520.8356933594" posY="759.27197265625" posZ="11.0234375" rotX="0" rotY="0" rotZ="0" />
+    <Team1 id="Team1 (3)" posX="2520.8200683594" posY="758.43225097656" posZ="11.0234375" rotX="0" rotY="0" rotZ="0" />
+    <Team1 id="Team1 (4)" posX="2520.763671875" posY="757.44677734375" posZ="11.0234375" rotX="0" rotY="0" rotZ="0" />
+    <Team1 id="Team1 (5)" posX="2519.9406738281" posY="759.96264648438" posZ="11.0234375" rotX="0" rotY="0" rotZ="0" />
+    <Team1 id="Team1 (6)" posX="2520.048828125" posY="759.19458007813" posZ="11.0234375" rotX="0" rotY="0" rotZ="0" />
+    <Team1 id="Team1 (7)" posX="2520.0126953125" posY="758.31268310547" posZ="11.0234375" rotX="0" rotY="0" rotZ="0" />
+    <Team1 id="Team1 (8)" posX="2520.0402832031" posY="757.18774414063" posZ="11.0234375" rotX="0" rotY="0" rotZ="0" />
+    <Team1 id="Team1 (9)" posX="2519.1997070313" posY="759.05786132813" posZ="11.0234375" rotX="0" rotY="0" rotZ="0" />
+    <Team1 id="Team1 (10)" posX="2519.3083496094" posY="757.81970214844" posZ="11.0234375" rotX="0" rotY="0" rotZ="0" />
+    <Team2 id="Team2 (1)" posX="2671.9125976563" posY="756.60632324219" posZ="11.0234375" rotX="0" rotY="0" rotZ="0" />
+    <Team2 id="Team2 (2)" posX="2672.0141601563" posY="757.45166015625" posZ="11.0234375" rotX="0" rotY="0" rotZ="0" />
+    <Team2 id="Team2 (3)" posX="2672.1564941406" posY="758.32092285156" posZ="11.0234375" rotX="0" rotY="0" rotZ="0" />
+    <Team2 id="Team2 (4)" posX="2671.9682617188" posY="759.35083007813" posZ="11.0234375" rotX="0" rotY="0" rotZ="0" />
+    <Team2 id="Team2 (5)" posX="2673.0100097656" posY="756.71051025391" posZ="11.0234375" rotX="0" rotY="0" rotZ="0" />
+    <Team2 id="Team2 (6)" posX="2673.103515625" posY="757.41278076172" posZ="11.0234375" rotX="0" rotY="0" rotZ="0" />
+    <Team2 id="Team2 (7)" posX="2673.091796875" posY="758.27410888672" posZ="11.0234375" rotX="0" rotY="0" rotZ="0" />
+    <Team2 id="Team2 (8)" posX="2673.0668945313" posY="759.29931640625" posZ="11.0234375" rotX="0" rotY="0" rotZ="0" />
+    <Team2 id="Team2 (9)" posX="2674.091796875" posY="757.56286621094" posZ="11.0234375" rotX="0" rotY="0" rotZ="0" />
+    <Team2 id="Team2 (10)" posX="2673.9912109375" posY="758.53076171875" posZ="11.0234375" rotX="0" rotY="0" rotZ="0" />
+    <object id="object (sw_haypile05) (1)" doublesided="false" model="12918" interior="0" dimension="0" posX="2629.5095214844" posY="735.08648681641" posZ="9.8203125" rotX="0" rotY="0" rotZ="90" />
+    <object id="object (sw_haypile05) (2)" doublesided="false" model="12918" interior="0" dimension="0" posX="2567.6359863281" posY="735.23638916016" posZ="9.8203125" rotX="0" rotY="0" rotZ="270" />
+</map>

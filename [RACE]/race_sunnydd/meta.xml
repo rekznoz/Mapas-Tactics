@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-16"?>
+<meta>
+  <info type="map" gamemodes="race" name="Sunny DD" author="[U1tra]_Din" />
+  <map src="Sunny DD.map" />
+  <settings>
+    <setting name="#time" value="6:30" />
+    <setting name="#weather" value="3" />
+    <setting name="#respawn" value="none" />
+    <setting name="#duration" value="400" />
+  </settings>
+</meta>

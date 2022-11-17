@@ -1,0 +1,41 @@
+<map edf:definitions="tactics">
+    <Central_Marker id="Central_Marker (1)" posX="-1372.7916" posY="119.8601" posZ="14.1484" />
+    <vehicle model="476" plate="C63G 92O" interior="0" dimension="0" posX="-1102.3056640625" posY="379.54754638672" posZ="15.318590164185" rotX="13.425048828125" rotY="1.2349853515625" rotZ="135.06494140625" />
+    <vehicle model="476" plate="LJHM S6W" interior="0" dimension="0" posX="-1110.5570068359" posY="392.73739624023" posZ="15.318590164185" rotX="13.419799804688" rotY="1.23046875" rotZ="135.06042480469" />
+    <vehicle model="476" plate="PJ28 FCF" interior="0" dimension="0" posX="-1084.5701904297" posY="396.95916748047" posZ="15.318590164185" rotX="13.419799804688" rotY="1.23046875" rotZ="135.06042480469" />
+    <vehicle model="476" plate="G86X YNG" interior="0" dimension="0" posX="-1101.3283691406" posY="402.02392578125" posZ="15.318590164185" rotX="13.419799804688" rotY="1.23046875" rotZ="135.06042480469" />
+    <vehicle model="476" plate="3XDI NU1" interior="0" dimension="0" posX="-1093.6018066406" posY="388.14343261719" posZ="15.318590164185" rotX="13.419799804688" rotY="1.23046875" rotZ="135.06042480469" />
+    <vehicle model="476" plate="MQ6R EKC" interior="0" dimension="0" posX="-1083.8168945313" posY="419.62719726563" posZ="15.318590164185" rotX="13.419799804688" rotY="1.23046875" rotZ="135.06042480469" />
+    <vehicle model="476" plate="DWL6 393" interior="0" dimension="0" posX="-1092.7474365234" posY="410.64349365234" posZ="15.318590164185" rotX="13.419799804688" rotY="1.23046875" rotZ="135.06042480469" />
+    <vehicle model="476" plate="NB2G WXY" interior="0" dimension="0" posX="-1075.4930419922" posY="406.09091186523" posZ="15.318590164185" rotX="13.419799804688" rotY="1.23046875" rotZ="135.06042480469" />
+    <Team1 interior="0" dimension="0" posX="-1092.3006591797" posY="370.11846923828" posZ="14.546875" rotX="0" rotY="0" rotZ="0" />
+    <Team1 interior="0" dimension="0" posX="-1089.2288818359" posY="373.36422729492" posZ="14.550491333008" rotX="0" rotY="0" rotZ="0" />
+    <Team1 interior="0" dimension="0" posX="-1086.5633544922" posY="376.07766723633" posZ="14.545406341553" rotX="0" rotY="0" rotZ="0" />
+    <Team1 interior="0" dimension="0" posX="-1084.2440185547" posY="379.1491394043" posZ="14.465419769287" rotX="0" rotY="0" rotZ="0" />
+    <Team1 interior="0" dimension="0" posX="-1081.2958984375" posY="381.86468505859" posZ="14.490161895752" rotX="0" rotY="0" rotZ="0" />
+    <Team1 interior="0" dimension="0" posX="-1078.1883544922" posY="384.60272216797" posZ="14.529441833496" rotX="0" rotY="0" rotZ="0" />
+    <Team1 interior="0" dimension="0" posX="-1075.0113525391" posY="387.43435668945" posZ="14.546875" rotX="0" rotY="0" rotZ="0" />
+    <Team1 interior="0" dimension="0" posX="-1072.4921875" posY="390.68417358398" posZ="14.488483428955" rotX="0" rotY="0" rotZ="0" />
+    <Team1 interior="0" dimension="0" posX="-1069.2161865234" posY="393.59487915039" posZ="14.527317047119" rotX="0" rotY="0" rotZ="0" />
+    <Team1 interior="0" dimension="0" posX="-1066.2803955078" posY="396.72418212891" posZ="14.506736755371" rotX="0" rotY="0" rotZ="0" />
+    <vehicle model="476" plate="2ISL 4Q4" interior="0" dimension="0" posX="-1637.4913330078" posY="-156.82057189941" posZ="15.318590164185" rotX="13.419799804688" rotY="1.23046875" rotZ="314.21002197266" />
+    <vehicle model="476" plate="CJFC 9LA" interior="0" dimension="0" posX="-1670.072265625" posY="-166.5908203125" posZ="15.318590164185" rotX="13.419799804688" rotY="1.23046875" rotZ="314.208984375" />
+    <vehicle model="476" plate="O13A 74J" interior="0" dimension="0" posX="-1656.1083984375" posY="-174.3623046875" posZ="15.318590164185" rotX="13.419799804688" rotY="1.23046875" rotZ="314.208984375" />
+    <vehicle model="476" plate="A0VZ ZRA" interior="0" dimension="0" posX="-1661.62109375" posY="-158.2919921875" posZ="15.318590164185" rotX="13.419799804688" rotY="1.23046875" rotZ="314.208984375" />
+    <vehicle model="476" plate="F8ZO 9MN" interior="0" dimension="0" posX="-1646.6240234375" posY="-165.609375" posZ="15.318590164185" rotX="13.419799804688" rotY="1.23046875" rotZ="314.208984375" />
+    <vehicle model="476" plate="QMIB M1E" interior="0" dimension="0" posX="-1652.619140625" posY="-149.158203125" posZ="15.318590164185" rotX="13.419799804688" rotY="1.23046875" rotZ="314.208984375" />
+    <vehicle model="476" plate="QMCP MO6" interior="0" dimension="0" posX="-1628.7800292969" posY="-147.75706481934" posZ="15.314118385315" rotX="13.419799804688" rotY="1.23046875" rotZ="314.21002197266" />
+    <vehicle model="476" plate="6ZP3 FSC" interior="0" dimension="0" posX="-1643.990234375" posY="-140.5576171875" posZ="15.318590164185" rotX="13.419799804688" rotY="1.23046875" rotZ="314.208984375" />
+    <Team2 interior="0" dimension="0" posX="-1620.3706054688" posY="-157.16249084473" posZ="14.365207672119" rotX="0" rotY="0" rotZ="0" />
+    <Team2 interior="0" dimension="0" posX="-1622.8649902344" posY="-159.54681396484" posZ="14.357421875" rotX="0" rotY="0" rotZ="0" />
+    <Team2 interior="0" dimension="0" posX="-1625.3015136719" posY="-161.87860107422" posZ="14.350002288818" rotX="0" rotY="0" rotZ="0" />
+    <Team2 interior="0" dimension="0" posX="-1627.6257324219" posY="-164.59260559082" posZ="14.377601623535" rotX="0" rotY="0" rotZ="0" />
+    <Team2 interior="0" dimension="0" posX="-1630.5029296875" posY="-166.96025085449" posZ="14.3415184021" rotX="0" rotY="0" rotZ="0" />
+    <Team2 interior="0" dimension="0" posX="-1632.9481201172" posY="-169.41918945313" posZ="14.342502593994" rotX="0" rotY="0" rotZ="0" />
+    <Team2 interior="0" dimension="0" posX="-1635.3280029297" posY="-171.81776428223" posZ="14.343818664551" rotX="0" rotY="0" rotZ="0" />
+    <Team2 interior="0" dimension="0" posX="-1637.583984375" posY="-174.33975219727" posZ="14.362655639648" rotX="0" rotY="0" rotZ="0" />
+    <Team2 interior="0" dimension="0" posX="-1639.7619628906" posY="-176.7854309082" posZ="14.381607055664" rotX="0" rotY="0" rotZ="0" />
+    <Team2 interior="0" dimension="0" posX="-1642.5272216797" posY="-179.45056152344" posZ="14.165565490723" rotX="0" rotY="0" rotZ="0" />
+    <Anti_Rush_Point posX="-899.7872" posY="623.0304" posZ="0.0" />
+    <Anti_Rush_Point posX="-1823.2229" posY="-695.1390" posZ="0.0" />
+</map>

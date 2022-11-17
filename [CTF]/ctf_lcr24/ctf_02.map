@@ -1,0 +1,48 @@
+<map edf:definitions="tactics20,editor_main">
+    
+    <object id="object (rest_chair2) (1)" doublesided="false" model="3922" interior="0" dimension="0" name="delux object (21)" posX="-792.2500" posY="500.3828" posZ="1370.6484" rotX="0.0000" rotY="0.0000" rotZ="0.0000" />
+    <object id="object (libstreetfar) (1)" doublesided="false" model="3923" interior="0" dimension="0" name="delux object (22)" posX="-885.6797" posY="482.9766" posZ="1353.5078" rotX="0.0000" rotY="0.0000" rotZ="0.0000" />
+    <object id="object (playroom) (1)" doublesided="false" model="3924" interior="0" dimension="0" name="delux object (23)" posX="-1086.0938" posY="1061.1875" posZ="1360.5703" rotX="0.0000" rotY="0.0000" rotZ="0.0000" />
+    <object id="object (bridge_1) (1)" doublesided="false" model="3925" interior="0" dimension="0" name="delux object (24)" posX="-1009.7578" posY="1079.0469" posZ="1340.8438" rotX="0.0000" rotY="0.0000" rotZ="0.0000" />
+    <object id="object (helipad) (1)" doublesided="false" model="3928" interior="0" dimension="0" name="delux object (25)" posX="-1131.5781" posY="1041.7344" posZ="1344.7422" rotX="0.0000" rotY="0.0000" rotZ="0.0000" />
+    <object id="object (hanger) (1)" doublesided="false" model="3932" interior="0" dimension="0" name="delux object (26)" posX="-1131.9453" posY="1029.1406" posZ="1346.4063" rotX="0.0000" rotY="0.0000" rotZ="0.0000" />
+    <object id="object (fake_sky) (1)" doublesided="false" model="3933" interior="0" dimension="0" name="delux object (27)" posX="-1052.6016" posY="1063.2578" posZ="1347.0781" rotX="0.0000" rotY="0.0000" rotZ="0.0000" />
+    <object id="object (helipad01) (1)" doublesided="false" model="3934" interior="0" dimension="0" name="delux object (28)" posX="-973.8359" posY="1077.1719" posZ="1343.9922" rotX="0.0000" rotY="0.0000" rotZ="0.0000" />
+    <object id="object (statue) (1)" doublesided="false" model="3935" interior="0" dimension="0" name="delux object (29)" posX="-1097.7422" posY="1037.8750" posZ="1343.0781" rotX="0.0000" rotY="0.0000" rotZ="0.0000" />
+    <object id="object (bwire_fence) (1)" doublesided="false" model="3936" interior="0" dimension="0" name="delux object (30)" posX="-974.5546875" posY="1059.4609375" posZ="1344.7734375" rotX="0" rotY="0" rotZ="180" />
+    <object id="object (bwire_fence01) (1)" doublesided="false" model="3937" interior="0" dimension="0" name="delux object (31)" posX="-1130.9219" posY="1059.4609" posZ="1345.4688" rotX="0.0000" rotY="0.0000" rotZ="0.0000" />
+    <object id="object (rczero4_base01) (1)" doublesided="false" model="3938" interior="0" dimension="0" name="delux object (32)" posX="-974.5546875" posY="1059.4453125" posZ="1344.7734375" rotX="0" rotY="0" rotZ="180" />
+    <object id="object (hanger01) (1)" doublesided="false" model="3939" interior="0" dimension="0" name="delux object (33)" posX="-975.046875" posY="1089.65625" posZ="1345.65625" rotX="0" rotY="0" rotZ="180" />
+    <object id="object (comms01) (1)" doublesided="false" model="3940" interior="0" dimension="0" name="delux object (34)" posX="-974.4453125" posY="1041.5390625" posZ="1347.1484375" rotX="0" rotY="0" rotZ="180" />
+    <object id="object (comms02) (1)" doublesided="false" model="3941" interior="0" dimension="0" name="delux object (35)" posX="-1132.1094" posY="1077.7422" posZ="1347.9063" rotX="0.0000" rotY="0.0000" rotZ="0.0000" />
+    <object id="object (alpha_fence) (1)" doublesided="false" model="3945" interior="0" dimension="0" name="delux object (36)" posX="-785.6484" posY="500.4453" posZ="1377.1797" rotX="0.0000" rotY="0.0000" rotZ="0.0000" />
+    <object id="object (plants01) (1)" doublesided="false" model="3946" interior="0" dimension="0" name="delux object (37)" posX="-785.9922" posY="497.1641" posZ="1373.9609" rotX="0.0000" rotY="0.0000" rotZ="0.0000" />
+    <object id="object (rc_track_a) (1)" doublesided="false" model="3947" interior="0" dimension="0" name="delux object (38)" posX="-1071.1953" posY="1059.6406" posZ="1343.2656" rotX="0.0000" rotY="0.0000" rotZ="0.0000" />
+    <object id="object (bistrogarden) (1)" doublesided="false" model="3948" interior="0" dimension="0" name="delux object (39)" posX="-834.0234" posY="526.4766" posZ="1363.7188" rotX="0.0000" rotY="0.0000" rotZ="0.0000" />
+    <object id="object (rc_track_b) (1)" doublesided="false" model="3949" interior="0" dimension="0" name="delux object (40)" posX="-1070.1250" posY="1059.6406" posZ="1343.0156" rotX="0.0000" rotY="0.0000" rotZ="0.0000" />
+    <object id="object (rc_zero_c) (1)" doublesided="false" model="3950" interior="0" dimension="0" name="delux object (41)" posX="-991.2891" posY="1059.6328" posZ="1341.6328" rotX="0.0000" rotY="0.0000" rotZ="0.0000" />
+    <object id="object (rc_water) (1)" doublesided="false" model="3951" interior="0" dimension="0" name="delux object (42)" posX="-1071.1953" posY="1059.6406" posZ="1343.2656" rotX="0.0000" rotY="0.0000" rotZ="0.0000" />
+    <object id="object (rc_track_d) (1)" doublesided="false" model="3952" interior="0" dimension="0" name="delux object (43)" posX="-1038.9844" posY="1035.0156" posZ="1343.2656" rotX="0.0000" rotY="0.0000" rotZ="0.0000" />
+    <object id="object (rc_track_e) (1)" doublesided="false" model="3953" interior="0" dimension="0" name="delux object (44)" posX="-1024.5625" posY="1059.0469" posZ="1342.9453" rotX="0.0000" rotY="0.0000" rotZ="0.0000" />
+    <object id="object (rc_track_f) (1)" doublesided="false" model="3954" interior="0" dimension="0" name="delux object (45)" posX="-1027.9375" posY="1070.9844" posZ="1341.3359" rotX="0.0000" rotY="0.0000" rotZ="0.0000" />
+    <object id="object (rc_track_g) (1)" doublesided="false" model="3955" interior="0" dimension="0" name="delux object (46)" posX="-1042.6406" posY="1072.6406" posZ="1343.8594" rotX="0.0000" rotY="0.0000" rotZ="0.0000" />
+    <object id="object (rc_track_h) (1)" doublesided="false" model="3956" interior="0" dimension="0" name="delux object (47)" posX="-1083.6953" posY="1071.8594" posZ="1341.9688" rotX="0.0000" rotY="0.0000" rotZ="0.0000" />
+    <object id="object (rc_track_i) (1)" doublesided="false" model="3957" interior="0" dimension="0" name="delux object (48)" posX="-1071.3828" posY="1050.0547" posZ="1342.7813" rotX="0.0000" rotY="0.0000" rotZ="0.0000" />
+    <object id="object (warehooseboxes) (1)" doublesided="false" model="3958" interior="0" dimension="0" name="delux object (49)" posX="-1142.0078" posY="1001.9141" posZ="1348.4219" rotX="0.0000" rotY="0.0000" rotZ="0.0000" />
+    <object id="object (rczero_alpha) (1)" doublesided="false" model="3959" interior="0" dimension="0" name="delux object (50)" posX="-1061.8906" posY="1057.3125" posZ="1369.3359" rotX="0.0000" rotY="0.0000" rotZ="0.0000" />
+    <object id="object (rczero4_base02) (1)" doublesided="false" model="3960" interior="0" dimension="0" name="delux object (51)" posX="-1130.8594" posY="1059.4453" posZ="1345.5156" rotX="0.0000" rotY="0.0000" rotZ="0.0000" />
+    <object id="object (lee_object01) (1)" doublesided="false" model="3966" interior="0" dimension="0" name="delux object (52)" posX="-788.5234" posY="491.5938" posZ="1375.9141" rotX="0.0000" rotY="0.0000" rotZ="0.0000" />
+    <Flag1 id="Flag1 (1)" posX="-1131.8530273438" posY="1041.6932373047" posZ="1344.7774658203" rotX="0" rotY="0" rotZ="0" />
+    <Team1 id="Team1 (1)" posX="-1128.7888183594" posY="1039.6062011719" posZ="1345.716796875" rotX="0" rotY="0" rotZ="0" />
+    <Team1 id="Team1 (2)" posX="-1128.7738037109" posY="1041.6561279297" posZ="1345.7186279297" rotX="0" rotY="0" rotZ="0" />
+    <Team1 id="Team1 (3)" posX="-1127.4812011719" posY="1040.5766601563" posZ="1345.712890625" rotX="0" rotY="0" rotZ="0" />
+    <Team1 id="Team1 (4)" posX="-1127.3992919922" posY="1043.1098632813" posZ="1345.7150878906" rotX="0" rotY="0" rotZ="0" />
+    <Team1 id="Team1 (5)" posX="-1127.2296142578" posY="1039.0639648438" posZ="1345.7039794922" rotX="0" rotY="0" rotZ="0" />
+    <Central_Marker id="Central_Marker (1)" posX="-1058.2385253906" posY="1056.0234375" posZ="1343.2514648438" rotX="0" rotY="0" rotZ="0" />
+    <Flag2 id="Flag2 (1)" posX="-973.78363037109" posY="1077.4256591797" posZ="1344.2556152344" rotX="0" rotY="0" rotZ="0" />
+    <Team2 id="Team2 (1)" posX="-975.9267578125" posY="1070.6848144531" posZ="1344.9852294922" rotX="0" rotY="0" rotZ="0" />
+    <Team2 id="Team2 (2)" posX="-975.52734375" posY="1072.8021240234" posZ="1344.9851074219" rotX="0" rotY="0" rotZ="0" />
+    <Team2 id="Team2 (3)" posX="-975.40863037109" posY="1074.9971923828" posZ="1344.9874267578" rotX="0" rotY="0" rotZ="0" />
+    <Team2 id="Team2 (4)" posX="-973.62957763672" posY="1073.0556640625" posZ="1345.0010986328" rotX="0" rotY="0" rotZ="0" />
+    <Team2 id="Team2 (5)" posX="-974.41870117188" posY="1069.9104003906" posZ="1344.9957275391" rotX="0" rotY="0" rotZ="0" />
+</map>

@@ -1,0 +1,19 @@
+<map edf:definitions="editor_main,BaseMode">
+    <Central_Marker id="Central_Marker (1)" interior="0" posX="242.08111572266" posY="1866.8902587891" posZ="11.4609375" rotX="0" rotY="0" rotZ="0" />
+	<Anti_Rush_Point id="Anti_Rush_Point (1)" posX="-73.32600402832" posY="1640.9986572266" posZ="19.662517547607" rotX="0" rotY="0" rotZ="0" />
+    <Anti_Rush_Point id="Anti_Rush_Point (2)" posX="336.28897094727" posY="1648.7946777344" posZ="19.547241210938" rotX="0" rotY="0" rotZ="0" />
+    <Anti_Rush_Point id="Anti_Rush_Point (3)" posX="416.9245300293" posY="1857.986328125" posZ="19.039747238159" rotX="0" rotY="0" rotZ="0" />
+    <Anti_Rush_Point id="Anti_Rush_Point (4)" posX="431.90151977539" posY="1888.1352539063" posZ="18.935722351074" rotX="0" rotY="0" rotZ="0" />
+    <Anti_Rush_Point id="Anti_Rush_Point (5)" posX="435.18426513672" posY="2143.5903320313" posZ="19.6875" rotX="0" rotY="0" rotZ="0" />
+    <Anti_Rush_Point id="Anti_Rush_Point (6)" posX="-83.11979675293" posY="2139.09765625" posZ="19.646648406982" rotX="0" rotY="0" rotZ="0" />
+    <spawnpoint interior="0" posX="242.08111572266" posY="1866.8902587891" posZ="11.4609375" rotX="0" rotY="0" rotZ="0" />
+    <spawnpoint interior="0" posX="240.33001708984" posY="1870.9226074219" posZ="11.4609375" rotX="0" rotY="0" rotZ="0" />
+    <spawnpoint interior="0" posX="242.12252807617" posY="1870.8572998047" posZ="11.4609375" rotX="0" rotY="0" rotZ="0" />
+    <spawnpoint interior="0" posX="237.07493591309" posY="1872.3026123047" posZ="11.4609375" rotX="0" rotY="0" rotZ="0" />
+    <spawnpoint interior="0" posX="241.7833404541" posY="1874.2641601563" posZ="11.4609375" rotX="0" rotY="0" rotZ="0" />
+    <spawnpoint interior="0" posX="239.90303039551" posY="1873.5372314453" posZ="11.4609375" rotX="0" rotY="0" rotZ="0" />
+    <spawnpoint interior="0" posX="240.07133483887" posY="1875.9676513672" posZ="11.4609375" rotX="0" rotY="0" rotZ="0" />
+    <spawnpoint interior="0" posX="241.9093170166" posY="1877.2358398438" posZ="11.4609375" rotX="0" rotY="0" rotZ="0" />
+    <spawnpoint interior="0" posX="241.5066986084" posY="1879.5247802734" posZ="11.4609375" rotX="0" rotY="0" rotZ="0" />
+    <spawnpoint interior="0" posX="244.2174987793" posY="1879.4730224609" posZ="11.4609375" rotX="0" rotY="0" rotZ="0" />
+</map>

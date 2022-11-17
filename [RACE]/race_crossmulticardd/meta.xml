@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-16"?>
+<meta>
+  <info type="map" gamemodes="race" name="Cross Multicar DD" />
+  <map src="Cross Multicar DD.map" />
+  <settings>
+    <setting name="#time" value="6:30" />
+    <setting name="#weather" value="3" />
+    <setting name="#respawn" value="none" />
+    <setting name="#respawntime" value="0" />
+    <setting name="#duration" value="360" />
+  </settings>
+</meta>

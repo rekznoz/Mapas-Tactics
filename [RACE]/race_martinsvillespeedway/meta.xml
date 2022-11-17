@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-16"?>
+<meta>
+  <info type="map" gamemodes="race" name="Martinsville Speedway" author="MadMax(darles92)" description="Opened in 1947 Martinsville Speedway is the shortest track in the NASCAR Sprint Cup Series." />
+  <map src="Martinsville Speedway.map" />
+  <settings>
+    <setting name="#time" value="7:0" />
+    <setting name="#weather" value="2" />
+    <setting name="#respawn" value="timelimit" />
+    <setting name="#duration" value="4294966" />
+  </settings>
+</meta>

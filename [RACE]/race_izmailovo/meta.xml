@@ -1,0 +1,19 @@
+<meta>
+    <info gamemodes="race" type="map" name="MRL: Karting Izmailovo" version="1.0" />
+    <map src="race-izmailovo.map" dimension="0" />
+    <settings>
+        <setting name="#skins" value='[ &quot;cj&quot; ]' />
+        <setting name="#maxplayers" value="[ 128 ]" />
+        <setting name="#gamespeed" value="[ 1 ]" />
+        <setting name="#time" value="12:00" />
+        <setting name="#minplayers" value="[ 0 ]" />
+        <setting name="#weather" value="[ 2 ]" />
+        <setting name="#gravity" value="[ 0.008000 ]" />
+        <setting name="#waveheight" value="[ 0 ]" />
+        <setting name="#respawntime" value="[ 10 ]" />
+        <setting name="#locked_time" value="[ false ]" />
+		<setting name="#respawntime" value="[ 10 ]" />
+        <setting name="#duration" value="[ 6000 ]" />
+        <setting name="#respawn" value='[ &quot;timelimit&quot; ]' />
+    </settings>
+</meta>

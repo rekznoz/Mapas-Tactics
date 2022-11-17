@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<meta>
+  <info type="map" gamemodes="race" name="HOTRING[Street Series SF GP]" author="MadMax(darles92)" description="HOTRING Racing of San Andreas Series Tour - San Fierro Street GP - 32 cars." />
+  <map src="HOTRING[Street Series SF GP].map" />
+  <settings>
+    <setting name="#weather" value="7" />
+    <setting name="#respawn" value="timelimit" />
+  </settings>
+</meta>

@@ -1,0 +1,66 @@
+<map edf:definitions="BaseMode">
+		<Team1 id="Team1 (1)" interior="0" posX="-1641.3983154297" posY="1283.3570556641" posZ="6.6882882118225" rotX="0" rotY="0" rotZ="0" />
+		<Team1 id="Team1 (2)" interior="0" posX="-1653.3935546875" posY="1317.2489013672" posZ="6.6882882118225" rotX="0" rotY="0" rotZ="0" />
+		<Team1 id="Team1 (3)" interior="0" posX="-1649.3843994141" posY="1311.5616455078" posZ="6.6882882118225" rotX="0" rotY="0" rotZ="0" />
+		<Team1 id="Team1 (4)" interior="0" posX="-1643.7010498047" posY="1304.5274658203" posZ="6.6882882118225" rotX="0" rotY="0" rotZ="0" />
+		<Team1 id="Team1 (5)" interior="0" posX="-1637.6688232422" posY="1297.3970947266" posZ="6.6882882118225" rotX="0" rotY="0" rotZ="0" />
+		<Team1 id="Team1 (6)" interior="0" posX="-1630.2062988281" posY="1289.7703857422" posZ="6.6882882118225" rotX="0" rotY="0" rotZ="0" />
+		<Team1 id="Team1 (7)" interior="0" posX="-1637.6688232422" posY="1297.3970947266" posZ="6.6882882118225" rotX="0" rotY="0" rotZ="0" />
+		<Team1 id="Team1 (8)" interior="0" posX="-1643.7010498047" posY="1304.5274658203" posZ="6.6882882118225" rotX="0" rotY="0" rotZ="0" />
+		<Team1 id="Team1 (9)" interior="0" posX="-1649.3843994141" posY="1311.5616455078" posZ="6.6882882118225" rotX="0" rotY="0" rotZ="0" />
+		<Team1 id="Team1 (10)" interior="0" posX="-1653.3935546875" posY="1317.2489013672" posZ="6.6882882118225" rotX="0" rotY="0" rotZ="0" />
+    <Central_Marker id="Central_Marker (1)" interior="0" posX="-1587.0726318359" posY="37.621597290039" posZ="15.952350616455" rotX="0" rotY="0" rotZ="0" />
+
+<object id="object (MagnoCrane_02) (1)" doublesided="false" model="1379" interior="0" dimension="0" posX="-1549.3681640625" posY="122.29296875" posZ="26.578128814697" rotX="0" rotY="0" rotZ="171.99645996094" />
+    <object id="object (MagnoCrane_01) (1)" doublesided="false" model="1380" interior="0" dimension="0" posX="-1550.4887695313" posY="121.05194854736" posZ="26.605815887451" rotX="0" rotY="0" rotZ="226" />
+    <object id="object (TwrCrane_L_02) (1)" doublesided="false" model="1394" interior="0" dimension="0" posX="-1548.8751220703" posY="126.17111206055" posZ="44.172878265381" rotX="0" rotY="0" rotZ="174" />
+    <object id="object (acwinch1b_SFS) (1)" doublesided="false" model="11401" interior="0" dimension="0" posX="-1554.7973632813" posY="69.544189453125" posZ="44.790042877197" rotX="0" rotY="0" rotZ="0" />
+    <object id="object (TwrCrane_S_01) (1)" doublesided="false" model="1389" interior="0" dimension="0" posX="-1554.8000488281" posY="69.573593139648" posZ="47.633430480957" rotX="0" rotY="0" rotZ="355.25" />
+    <object id="object (CJ_CHRIS_CRATE) (1)" doublesided="false" model="2669" interior="0" dimension="0" posX="-1554.8566894531" posY="69.353744506836" posZ="39.120658874512" rotX="0" rotY="0" rotZ="0" />
+    <object id="object (acwinch1b_SFS) (2)" doublesided="false" model="11401" interior="0" dimension="0" posX="-1555" posY="70.272338867188" posZ="41.811614990234" rotX="12.768157958984" rotY="204.64849853516" rotZ="306.20935058594" />
+    <object id="object (acwinch1b_SFS) (3)" doublesided="false" model="11401" interior="0" dimension="0" posX="-1554.5466308594" posY="68.812469482422" posZ="41.786613464355" rotX="12.76611328125" rotY="204.64782714844" rotZ="136.20547485352" />
+    <object id="object (acwinch1b_SFS) (4)" doublesided="false" model="11401" interior="0" dimension="0" posX="-1555.0085449219" posY="69.564270019531" posZ="41.661605834961" rotX="359.99774169922" rotY="185.99969482422" rotZ="355.99291992188" />
+    <object id="object (rider1_door) (1)" doublesided="false" model="2959" interior="0" dimension="0" posX="-1555.6141357422" posY="66.779426574707" posZ="37.903011322021" rotX="0" rotY="0" rotZ="268" />
+    <object id="object (lasdkrt1_LA01) (1)" doublesided="false" model="3565" interior="0" dimension="0" posX="-1564.9217529297" posY="53.820892333984" posZ="17.676065444946" rotX="0" rotY="0" rotZ="134.49462890625" />
+    <object id="object (lasdkrt2) (1)" doublesided="false" model="3570" interior="0" dimension="0" posX="-1585.0311279297" posY="62.937343597412" posZ="17.676065444946" rotX="0" rotY="0" rotZ="45.499877929688" />
+    <object id="object (lasdkrt3) (1)" doublesided="false" model="3571" interior="0" dimension="0" posX="-1577.4523925781" posY="70.184700012207" posZ="17.676065444946" rotX="0" rotY="0" rotZ="44.994506835938" />
+    <object id="object (lasdkrtgrp1) (1)" doublesided="false" model="3573" interior="0" dimension="0" posX="-1576.0920410156" posY="34.330715179443" posZ="24.419834136963" rotX="0" rotY="0" rotZ="45.247192382813" />
+    <object id="object (lasdkrt05) (1)" doublesided="false" model="3575" interior="0" dimension="0" posX="-1577.5941162109" posY="56.954261779785" posZ="19.019815444946" rotX="0" rotY="0" rotZ="314.99450683594" />
+    <object id="object (helipad) (1)" doublesided="false" model="3928" interior="0" dimension="0" posX="-1482.3128662109" posY="144.9744720459" posZ="17.7734375" rotX="0" rotY="0" rotZ="45" />
+    <object id="object (lasdkrt2) (2)" doublesided="false" model="3570" interior="0" dimension="0" posX="-1546.4661865234" posY="66.32194519043" posZ="17.676065444946" rotX="0" rotY="0" rotZ="44.994384765625" />
+    <object id="object (lasdkrt2) (3)" doublesided="false" model="3570" interior="0" dimension="0" posX="-1560.9133300781" posY="45.887496948242" posZ="17.676065444946" rotX="0" rotY="0" rotZ="225.49987792969" />
+    <object id="object (lasdkrt2) (4)" doublesided="false" model="3570" interior="0" dimension="0" posX="-1564.6079101563" posY="76.007362365723" posZ="17.676065444946" rotX="0" rotY="0" rotZ="134.99987792969" />
+    <object id="object (lasdkrtgrp1) (1)" doublesided="false" model="3573" interior="0" dimension="0" posX="-1576.0623779297" posY="34.358280181885" posZ="19.069816589355" rotX="0" rotY="179.75006103516" rotZ="45.247222900391" />
+    <object id="object (lasdkrtgrp2) (1)" doublesided="false" model="3574" interior="0" dimension="0" posX="-1591.7723388672" posY="102.78226470947" posZ="5.2661719322205" rotX="0" rotY="0" rotZ="224" />
+    <object id="object (lasdkrtgrp2) (2)" doublesided="false" model="3574" interior="0" dimension="0" posX="-1583.6966552734" posY="48.916217803955" posZ="19.019817352295" rotX="0" rotY="180.25" rotZ="135.25" />
+    <object id="object (lasdkrtgrp1) (1)" doublesided="false" model="3573" interior="0" dimension="0" posX="-1583.7387695313" posY="47.106422424316" posZ="24.320646286011" rotX="0" rotY="0" rotZ="135.24716186523" />
+    <object id="object (lasdkrt2) (1)" doublesided="false" model="3570" interior="0" dimension="0" posX="-1590.1741943359" posY="53.489105224609" posZ="22.990989685059" rotX="0" rotY="0" rotZ="45.249877929688" />
+    <object id="object (lasdkrt3) (1)" doublesided="false" model="3571" interior="0" dimension="0" posX="-1580.9626464844" posY="51.861186981201" posZ="23.014839172363" rotX="0" rotY="0" rotZ="314.99450683594" />
+    <object id="object (lasdkrt3) (1)" doublesided="false" model="3571" interior="0" dimension="0" posX="-1591.6572265625" posY="54.839038848877" posZ="17.676065444946" rotX="0" rotY="0" rotZ="50.994506835938" />
+    <object id="object (lasdkrt3) (1)" doublesided="false" model="3571" interior="0" dimension="0" posX="-1590.3536376953" posY="43.077480316162" posZ="17.676065444946" rotX="0" rotY="0" rotZ="44.994506835938" />
+    <object id="object (lasdkrtgrp2) (3)" doublesided="false" model="3574" interior="0" dimension="0" posX="-1543.4500732422" posY="74.998794555664" posZ="18.997091293335" rotX="0" rotY="0" rotZ="44.75" />
+    <object id="object (lasdkrt1_LA01) (1)" doublesided="false" model="3565" interior="0" dimension="0" posX="-1537.0997314453" posY="83.107139587402" posZ="17.626066207886" rotX="0" rotY="0" rotZ="134.49462890625" />
+    <object id="object (lasdkrt3) (1)" doublesided="false" model="3571" interior="0" dimension="0" posX="-1535.0366210938" posY="77.738739013672" posZ="17.626066207886" rotX="0" rotY="0" rotZ="44.994506835938" />
+    <object id="object (lasdkrt2) (4)" doublesided="false" model="3570" interior="0" dimension="0" posX="-1545.8712158203" posY="78.204574584961" posZ="20.350666046143" rotX="0" rotY="0" rotZ="44.489868164063" />
+    <object id="object (lasdkrt1_LA01) (1)" doublesided="false" model="3565" interior="0" dimension="0" posX="-1544.900390625" posY="75.21875" posZ="23.04799079895" rotX="0" rotY="180.5" rotZ="6.4929504394531" />
+    <object id="object (acbox4_SFS) (1)" doublesided="false" model="3800" interior="0" dimension="0" posX="-1546.3232421875" posY="67.892921447754" posZ="19.025449752808" rotX="0" rotY="0" rotZ="14" />
+    <object id="object (acbox4_SFS) (2)" doublesided="false" model="3800" interior="0" dimension="0" posX="-1538.2033691406" posY="75.600189208984" posZ="18.975450515747" rotX="0" rotY="0" rotZ="46.49658203125" />
+    <object id="object (acbox4_SFS) (3)" doublesided="false" model="3800" interior="0" dimension="0" posX="-1542.5786132813" posY="74.7705078125" posZ="19.002725601196" rotX="0" rotY="0" rotZ="313.99658203125" />
+    <object id="object (lasdkrt2) (1)" doublesided="false" model="3570" interior="0" dimension="0" posX="-1581.5163574219" posY="34.372062683105" posZ="17.676065444946" rotX="0" rotY="0" rotZ="43.247192382813" />
+    <object id="object (lasdkrt1_LA01) (1)" doublesided="false" model="3565" interior="0" dimension="0" posX="-1583.7775878906" posY="40.66960144043" posZ="17.676065444946" rotX="0" rotY="0" rotZ="134.49462890625" />
+    <object id="object (lasdkrt1_LA01) (1)" doublesided="false" model="3565" interior="0" dimension="0" posX="-1532.3471679688" posY="73.089309692383" posZ="17.676065444946" rotX="0" rotY="0" rotZ="212.49291992188" />
+    <object id="object (lasdkrt1_LA01) (1)" doublesided="false" model="3565" interior="0" dimension="0" posX="-1544.8736572266" posY="75.196571350098" posZ="25.673801422119" rotX="0" rotY="0" rotZ="186.49291992188" />
+
+
+
+    <Team2 id="Team2 (1)" interior="0" posX="-1497.265625" posY="138.6513671875" posZ="16.977350234985" rotX="0" rotY="0" rotZ="0" />
+    <Team2 id="Team2 (2)" interior="0" posX="-1494.638671875" posY="136.3095703125" posZ="16.977350234985" rotX="0" rotY="0" rotZ="0" />
+    <Team2 id="Team2 (3)" interior="0" posX="-1492.2392578125" posY="134.005859375" posZ="16.977350234985" rotX="0" rotY="0" rotZ="0" />
+    <Team2 id="Team2 (4)" interior="0" posX="-1490.47070312" posY="131.7666015625" posZ="16.977350234985" rotX="0" rotY="0" rotZ="0" />
+    <Team2 id="Team2 (5)" interior="0" posX="-1501.328125" posY="137.0712890625" posZ="16.977350234985" rotX="0" rotY="0" rotZ="0" />
+    <Team2 id="Team2 (6)" interior="0" posX="-1499.3359375" posY="134.947265625" posZ="16.977350234985" rotX="0" rotY="0" rotZ="0" />
+    <Team2 id="Team2 (7)" interior="0" posX="-1495.8525390625" posY="131.2216796875" posZ="16.977350234985" rotX="0" rotY="0" rotZ="0" />
+    <Team2 id="Team2 (8)" interior="0" posX="-1495.8525390625" posY="134.947265625" posZ="16.977350234985" rotX="0" rotY="0" rotZ="0" />
+    <Team2 id="Team2 (9)" interior="0" posX="-1493.8046875" posY="129.0302734375" posZ="16.977350234985" rotX="0" rotY="0" rotZ="0" />
+    <Team2 id="Team2 (10)" interior="0" posX="-1492.0625" posY="127.16796875" posZ="16.977350234985" rotX="0" rotY="0" rotZ="0" />
+</map>

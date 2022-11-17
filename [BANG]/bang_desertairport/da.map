@@ -1,0 +1,35 @@
+<map mod="tacics10">
+	<Central_Marker posX="412.912231" posY="2487.052246" posZ="17.403950" />
+	<Team1 posX="412.912231" posY="2487.052246" posZ="17.403950" rotZ="90" id="spawnpoint0" />
+	<Team1 posX="419.902344" posY="2520.104248" posZ="17.403950" rotZ="89" id="spawnpoint1" />
+	<Team1 posX="369.443146" posY="2462.106201" posZ="17.403950" rotZ="85" id="spawnpoint2" />
+	<Team1 posX="301.003052" posY="2287.414063" posZ="26.066265" rotZ="76" id="spawnpoint3" />
+	<Team1 posX="86.355530" posY="2411.128418" posZ="17.404278" rotZ="122" id="spawnpoint4" />
+	<Team1 posX="172.496506" posY="2550.061523" posZ="17.402878" rotZ="178" id="spawnpoint5" />
+	<Team1 posX="120.580093" posY="2551.035889" posZ="17.422497" rotZ="179" id="spawnpoint6" />
+	<Team1 posX="61.694687" posY="2549.753418" posZ="17.420246" rotZ="166" id="spawnpoint7" />
+	<Team1 posX="366.132568" posY="2710.081055" posZ="61.510654" rotZ="154" id="spawnpoint8" />
+	<Team1 posX="315.344727" posY="2723.880859" posZ="60.763325" rotZ="154" id="spawnpoint9" />
+	<Team1 posX="260.128174" posY="2741.331299" posZ="60.763325" rotZ="154" id="spawnpoint10" />
+	<Team1 posX="197.565948" posY="2754.936523" posZ="59.463783" rotZ="154" id="spawnpoint11" />
+	<Team1 posX="270.148834" posY="2544.767578" posZ="17.402878" rotZ="156" id="spawnpoint12" />
+	<Team1 posX="243.441254" posY="2415.012939" posZ="17.402878" rotZ="156" id="spawnpoint13" />
+	<Team1 posX="185.121277" posY="2414.058838" posZ="17.402878" rotZ="156" id="spawnpoint14" />
+	<Team2 posX="133.186554" posY="2412.169434" posZ="17.402878" rotZ="156" id="spawnpoint15" />
+	<Team2 posX="15.052074" posY="2548.299561" posZ="17.403950" rotZ="166" id="spawnpoint16" />
+	<Team2 posX="-39.515255" posY="2548.861328" posZ="17.648991" rotZ="168" id="spawnpoint17" />
+	<Team2 posX="403.166138" posY="2439.088867" posZ="30.512436" rotZ="117" id="spawnpoint18" />
+	<Team2 posX="402.279419" posY="2470.112793" posZ="30.483837" rotZ="93" id="spawnpoint19" />
+	<Team2 posX="383.407562" posY="2563.945557" posZ="17.286762" rotZ="127" id="spawnpoint20" />
+	<Team2 posX="339.685822" posY="2629.024170" posZ="17.286762" rotZ="127" id="spawnpoint21" />
+	<Team2 posX="130.592896" posY="2728.533691" posZ="54.424400" rotZ="182" id="spawnpoint22" />
+	<Team2 posX="53.268494" posY="2661.451904" posZ="55.894764" rotZ="154" id="spawnpoint23" />
+	<Team2 posX="496.545074" posY="2385.901611" posZ="30.597422" rotZ="56" id="spawnpoint24" />
+	<Team2 posX="468.073273" posY="2347.113037" posZ="42.375324" rotZ="78" id="spawnpoint25" />
+	<Team2 posX="426.280060" posY="2377.627930" posZ="26.950836" rotZ="89" id="spawnpoint26" />
+	<Team2 posX="376.025055" posY="2341.283203" posZ="26.178177" rotZ="78" id="spawnpoint27" />
+	<Team2 posX="-17.898443" posY="2617.853760" posZ="61.644501" rotZ="179" id="spawnpoint28" />
+	<Team2 posX="-39.993519" posY="2619.677490" posZ="62.841534" rotZ="179" id="spawnpoint29" />
+	<Team2 posX="-102.349716" posY="2564.401855" posZ="19.324562" rotZ="192" id="spawnpoint30" />
+	<Team2 posX="-150.603485" posY="2531.318359" posZ="24.706253" rotZ="237" id="spawnpoint31" />
+</map>

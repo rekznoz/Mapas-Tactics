@@ -1,0 +1,14 @@
+<meta>
+    <info gamemodes="race" type="map" name="[DD]Wankensten F@kuty@" author="Dr.Wankenstein" version="1.0" />
+    <map src="Wankenstein Inverse.map" dimension="0" />
+    <settings>
+        <setting name="#minplayers" value="[ 0 ]" />
+        <setting name="#maxplayers" value="[ 30 ]" />
+        <setting name="#gravity" value="[ 0.008000 ]" />
+        <setting name="#weather" value="[ 2 ]" />
+        <setting name="#time" value="0:0" />
+        <setting name="#locked_time" value="[ false ]" />
+        <setting name="#waveheight" value="[ 0 ]" />
+        <setting name="#gamespeed" value="[ 1 ]" />
+    </settings>
+</meta>

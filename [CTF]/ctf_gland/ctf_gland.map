@@ -1,0 +1,137 @@
+<map edf:definitions="tactics10,editor_main">
+    <object id="object (cityhallblok_LAn) (1)" doublesided="false" model="3997" interior="0" dimension="0" name="object (17)" posX="2948.634765625" posY="-1472.5263671875" posZ="746.49713134766" rotX="0" rotY="0" rotZ="0" />
+    <object id="object (w_town11b) (1)" doublesided="false" model="18496" interior="0" dimension="0" posX="2898.6455078125" posY="-1504.0524902344" posZ="749.79034423828" rotX="0" rotY="0" rotZ="0" />
+    <object id="object (cityhallblok_LAn) (1)" doublesided="false" model="3997" interior="0" dimension="0" name="object (17)" posX="2789.9265136719" posY="-1472.5012207031" posZ="746.49713134766" rotX="0" rotY="0" rotZ="0" />
+    <object id="object (hillhouse01_LA) (1)" doublesided="false" model="3598" interior="0" dimension="0" posX="2897.2802734375" posY="-1527.8421630859" posZ="748.47705078125" rotX="0" rotY="0" rotZ="0" />
+    <object id="object (hillhouse01_LA) (2)" doublesided="false" model="3598" interior="0" dimension="0" posX="2870.4365234375" posY="-1527.8282470703" posZ="748.47705078125" rotX="0" rotY="0" rotZ="0" />
+    <object id="object (hillhouse01_LA) (3)" doublesided="false" model="3598" interior="0" dimension="0" posX="2919.3525390625" posY="-1466.5965576172" posZ="751.25573730469" rotX="0" rotY="0" rotZ="0" />
+    <object id="object (bevbrkhus1) (1)" doublesided="false" model="3606" interior="0" dimension="0" posX="2914.9670410156" posY="-1477.263671875" posZ="749.90124511719" rotX="0" rotY="0" rotZ="0" />
+    <object id="object (hillhouse13_LA) (1)" doublesided="false" model="3609" interior="0" dimension="0" posX="2900.7504882813" posY="-1465.2067871094" posZ="751.12921142578" rotX="0" rotY="0" rotZ="0" />
+    <object id="object (hillhouse12_LA) (1)" doublesided="false" model="3612" interior="0" dimension="0" posX="2899.1958007813" posY="-1448.1802978516" posZ="749.12884521484" rotX="0" rotY="0" rotZ="0" />
+    <object id="object (nwlaw2husjm4_Law2) (1)" doublesided="false" model="3619" interior="0" dimension="0" posX="2926.0891113281" posY="-1526.3902587891" posZ="750.07043457031" rotX="0" rotY="0" rotZ="0" />
+    <object id="object (GlenPHouse01_LAx) (1)" doublesided="false" model="3639" interior="0" dimension="0" posX="2946.4841308594" posY="-1514.7719726563" posZ="750.57415771484" rotX="0" rotY="0" rotZ="270" />
+    <object id="object (GlenPHouse04_LAx) (1)" doublesided="false" model="3641" interior="0" dimension="0" posX="2883.3701171875" posY="-1471.7041015625" posZ="748.91467285156" rotX="0" rotY="0" rotZ="0" />
+    <object id="object (GlenPHouse03_LAx) (1)" doublesided="false" model="3642" interior="0" dimension="0" posX="2929.76953125" posY="-1474.8850097656" posZ="749.4482421875" rotX="0" rotY="0" rotZ="180" />
+    <object id="object (ganghous01_LAx) (1)" doublesided="false" model="3649" interior="0" dimension="0" posX="2858.5744628906" posY="-1516.6879882813" posZ="749.02960205078" rotX="0" rotY="0" rotZ="180" />
+    <object id="object (ganghous04_LAx) (1)" doublesided="false" model="3651" interior="0" dimension="0" posX="2878.7309570313" posY="-1447.8006591797" posZ="750.85382080078" rotX="0" rotY="0" rotZ="178" />
+    <object id="object (ganghous02_LAx) (1)" doublesided="false" model="3648" interior="0" dimension="0" posX="2861.7614746094" posY="-1463.3858642578" posZ="749.24090576172" rotX="0" rotY="0" rotZ="178" />
+    <object id="object (GlenPHouse03_LAx) (2)" doublesided="false" model="3642" interior="0" dimension="0" posX="2891.154296875" posY="-1457.9025878906" posZ="749.4482421875" rotX="0" rotY="0" rotZ="268" />
+    <object id="object (nwccumphus2_LAS) (1)" doublesided="false" model="3635" interior="0" dimension="0" posX="2954.2834472656" posY="-1492.5207519531" posZ="749.32971191406" rotX="0" rotY="0" rotZ="0" />
+    <object id="object (nwccumphus1_LAS) (1)" doublesided="false" model="3634" interior="0" dimension="0" posX="2864.9326171875" posY="-1446.9151611328" posZ="749.44488525391" rotX="0" rotY="0" rotZ="0" />
+    <object id="object (nwccumphus2_LAS) (2)" doublesided="false" model="3635" interior="0" dimension="0" posX="2860.0334472656" posY="-1499.5007324219" posZ="749.00476074219" rotX="0" rotY="0" rotZ="178" />
+    <object id="object (hillhouse01_LA) (4)" doublesided="false" model="3598" interior="0" dimension="0" posX="2851.5144042969" posY="-1509.4207763672" posZ="751.09228515625" rotX="0" rotY="0" rotZ="270" />
+    <object id="object (nwlaw2husjm4_Law2) (2)" doublesided="false" model="3619" interior="0" dimension="0" posX="2842.580078125" posY="-1447.5161132813" posZ="750.07043457031" rotX="0" rotY="0" rotZ="0" />
+    <object id="object (ganghous02_LAx) (2)" doublesided="false" model="3648" interior="0" dimension="0" posX="2878.302734375" posY="-1499.5732421875" posZ="749.24090576172" rotX="0" rotY="0" rotZ="177.99499511719" />
+    <object id="object (hillhouse01_LA) (5)" doublesided="false" model="3598" interior="0" dimension="0" posX="2954.544921875" posY="-1527.5335693359" posZ="748.47705078125" rotX="0" rotY="0" rotZ="0" />
+    <object id="object (midranhus_LAS) (1)" doublesided="false" model="3617" interior="0" dimension="0" posX="2942.8857421875" posY="-1477.6568603516" posZ="749.23565673828" rotX="0" rotY="0" rotZ="0" />
+    <object id="object (midranhus2_LAS) (1)" doublesided="false" model="3616" interior="0" dimension="0" posX="2934.6616210938" posY="-1497.3569335938" posZ="749.45501708984" rotX="0" rotY="0" rotZ="272" />
+    <object id="object (hillhouse09_LA) (2)" doublesided="false" model="3614" interior="0" dimension="0" posX="2966.5883789063" posY="-1494.7431640625" posZ="749.59606933594" rotX="0" rotY="0" rotZ="0" />
+    <object id="object (hillhouse12_LA) (2)" doublesided="false" model="3612" interior="0" dimension="0" posX="2854.9536132813" posY="-1437.8558349609" posZ="749.29229736328" rotX="0" rotY="0" rotZ="270" />
+    <object id="object (bevmangar_LAW2) (1)" doublesided="false" model="3604" interior="0" dimension="0" posX="2959.6218261719" posY="-1510.1491699219" posZ="749.05560302734" rotX="0" rotY="0" rotZ="0" />
+    <object id="object (hillhouse04_LA) (1)" doublesided="false" model="3601" interior="0" dimension="0" posX="2862.2424316406" posY="-1475.9467773438" posZ="748.04132080078" rotX="0" rotY="0" rotZ="268" />
+    <object id="object (hillhouse09_LA) (3)" doublesided="false" model="3614" interior="0" dimension="0" posX="2827.28125" posY="-1480.3248291016" posZ="748.45190429688" rotX="0" rotY="0" rotZ="180" />
+    <object id="object (Dingbat01Bex_LA) (1)" doublesided="false" model="3597" interior="0" dimension="0" posX="2827.7944335938" posY="-1462.1494140625" posZ="749.76391601563" rotX="0" rotY="0" rotZ="90" />
+    <object id="object (GlenPHouse02_LAx) (1)" doublesided="false" model="3640" interior="0" dimension="0" posX="2843.4174804688" posY="-1489.0947265625" posZ="751.00872802734" rotX="0" rotY="0" rotZ="88" />
+    <object id="object (ganghous05_LAx) (1)" doublesided="false" model="3646" interior="0" dimension="0" posX="2831.9904785156" posY="-1474.7797851563" posZ="748.69982910156" rotX="0" rotY="0" rotZ="0" />
+    <object id="object (hillhouse01_LA) (6)" doublesided="false" model="3598" interior="0" dimension="0" posX="2833.3557128906" posY="-1497.9984130859" posZ="751.09228515625" rotX="0" rotY="0" rotZ="346" />
+    <object id="object (hillhouse01_LA) (7)" doublesided="false" model="3598" interior="0" dimension="0" posX="2955.5451660156" posY="-1474.7576904297" posZ="751.25573730469" rotX="0" rotY="0" rotZ="330" />
+    <object id="object (hillhouse12_LA) (3)" doublesided="false" model="3612" interior="0" dimension="0" posX="2937.1604003906" posY="-1462.2200927734" posZ="750.43212890625" rotX="0" rotY="0" rotZ="180" />
+    <object id="object (lib_veg3) (1)" doublesided="false" model="3920" interior="0" dimension="0" posX="2889.4267578125" posY="-1491.7286376953" posZ="751.52301025391" rotX="0" rotY="0" rotZ="0" />
+    <object id="object (new_bushsm) (1)" doublesided="false" model="647" interior="0" dimension="0" posX="2863.3959960938" posY="-1496.2398681641" posZ="748.49444580078" rotX="0" rotY="0" rotZ="0" />
+    <object id="object (sm_bush_large_1) (1)" doublesided="false" model="759" interior="0" dimension="0" posX="2877.4692382813" posY="-1491.1912841797" posZ="746.99713134766" rotX="0" rotY="0" rotZ="0" />
+    <object id="object (sm_bush_small_1) (1)" doublesided="false" model="760" interior="0" dimension="0" posX="2875.7717285156" posY="-1490.7725830078" posZ="746.98944091797" rotX="0" rotY="0" rotZ="0" />
+    <object id="object (genVEG_bush07) (1)" doublesided="false" model="800" interior="0" dimension="0" posX="2863.3754882813" posY="-1490.9351806641" posZ="748.83532714844" rotX="0" rotY="0" rotZ="0" />
+    <object id="object (genVEG_bush07) (2)" doublesided="false" model="800" interior="0" dimension="0" posX="2926.9182128906" posY="-1503.0411376953" posZ="749.169921875" rotX="0" rotY="0" rotZ="0" />
+    <object id="object (veg_treeb1) (1)" doublesided="false" model="617" interior="0" dimension="0" posX="2881.8203125" posY="-1507.4979248047" posZ="746.49713134766" rotX="0" rotY="0" rotZ="136" />
+    <object id="object (veg_treea3) (1)" doublesided="false" model="618" interior="0" dimension="0" posX="2928.4025878906" posY="-1504.5002441406" posZ="746.99713134766" rotX="0" rotY="0" rotZ="0" />
+    <object id="object (pinetree04) (1)" doublesided="false" model="658" interior="0" dimension="0" posX="2886.462890625" posY="-1451.71484375" posZ="746.49713134766" rotX="0" rotY="0" rotZ="0" />
+    <object id="object (pinetree03) (1)" doublesided="false" model="660" interior="0" dimension="0" posX="2952.3718261719" posY="-1515.2091064453" posZ="747.57458496094" rotX="0" rotY="0" rotZ="0" />
+    <object id="object (sm_fir_copse1) (1)" doublesided="false" model="689" interior="0" dimension="0" posX="2811.42578125" posY="-1478.4946289063" posZ="741.92047119141" rotX="0" rotY="0" rotZ="0" />
+    <object id="object (sm_fir_scabg) (1)" doublesided="false" model="688" interior="0" dimension="0" posX="2918.611328125" posY="-1532.2987060547" posZ="746.49713134766" rotX="0" rotY="0" rotZ="0" />
+    <object id="object (sm_veg_tree4_big) (1)" doublesided="false" model="691" interior="0" dimension="0" posX="2853.8603515625" posY="-1526.0541992188" posZ="746.49713134766" rotX="0" rotY="0" rotZ="0" />
+    <object id="object (sm_redwoodgrp) (1)" doublesided="false" model="694" interior="0" dimension="0" posX="2965.8037109375" posY="-1461.1433105469" posZ="724.26763916016" rotX="0" rotY="0" rotZ="0" />
+    <object id="object (sm_fir_copse2) (1)" doublesided="false" model="690" interior="0" dimension="0" posX="2975.8051757813" posY="-1517.53125" posZ="741.59356689453" rotX="0" rotY="0" rotZ="0" />
+    <object id="object (CJ_SKIP_Rubbish) (1)" doublesided="false" model="1358" interior="0" dimension="0" posX="2907.1489257813" posY="-1521.4594726563" posZ="747.70068359375" rotX="0" rotY="0" rotZ="0" />
+    <object id="object (CJ_BIG_SKIP1) (1)" doublesided="false" model="1365" interior="0" dimension="0" posX="2887.7604980469" posY="-1482.7971191406" posZ="747.64001464844" rotX="0" rotY="0" rotZ="180" />
+    <object id="object (dump1) (1)" doublesided="false" model="1227" interior="0" dimension="0" posX="2869.7165527344" posY="-1452.5826416016" posZ="747.34887695313" rotX="0" rotY="0" rotZ="0" />
+    <object id="object (BinNt03_LA) (1)" doublesided="false" model="1333" interior="0" dimension="0" posX="2879.4375" posY="-1507.78515625" posZ="747.41918945313" rotX="0" rotY="0" rotZ="0" />
+    <object id="object (BinNt02_LA) (1)" doublesided="false" model="1332" interior="0" dimension="0" posX="2950.3725585938" posY="-1504.8581542969" posZ="747.55981445313" rotX="0" rotY="0" rotZ="180" />
+    <object id="object (Packing_carates1) (1)" doublesided="false" model="922" interior="0" dimension="0" posX="2898.830078125" posY="-1498.1531982422" posZ="753.30285644531" rotX="0" rotY="0" rotZ="30" />
+    <object id="object (Packing_carates2) (1)" doublesided="false" model="923" interior="0" dimension="0" posX="2900.65625" posY="-1502.9603271484" posZ="753.27899169922" rotX="0" rotY="0" rotZ="0" />
+    <object id="object (kmb_skip) (1)" doublesided="false" model="2890" interior="0" dimension="0" posX="2904.8078613281" posY="-1501.7595214844" posZ="752.36480712891" rotX="0" rotY="0" rotZ="0" />
+    <object id="object (DYN_CRATE_3) (1)" doublesided="false" model="1450" interior="0" dimension="0" posX="2888.7153320313" posY="-1484.7922363281" posZ="747.09741210938" rotX="0" rotY="0" rotZ="0" />
+    <object id="object (DYN_FIREBIN0) (1)" doublesided="false" model="1442" interior="0" dimension="0" posX="2902.8332519531" posY="-1481.6617431641" posZ="747.09564208984" rotX="0" rotY="0" rotZ="0" />
+    <object id="object (DYN_BOX_PILE_4) (1)" doublesided="false" model="1441" interior="0" dimension="0" posX="2931.0744628906" posY="-1490.1491699219" posZ="747.14880371094" rotX="0" rotY="0" rotZ="274" />
+    <object id="object (DYN_BOX_PILE_3) (1)" doublesided="false" model="1440" interior="0" dimension="0" posX="2909.6638183594" posY="-1514.0728759766" posZ="747.01623535156" rotX="0" rotY="0" rotZ="0" />
+    <object id="object (DYN_BOX_PILE_2) (1)" doublesided="false" model="1438" interior="0" dimension="0" posX="2866.4135742188" posY="-1521.6966552734" posZ="746.49713134766" rotX="0" rotY="0" rotZ="0" />
+    <object id="object (CJ_CARDBRD_PICKUP) (1)" doublesided="false" model="1558" interior="0" dimension="0" posX="2891.6906738281" posY="-1506.3094482422" posZ="753.04827880859" rotX="0" rotY="0" rotZ="0" />
+    <object id="object (fountain_SFW) (1)" doublesided="false" model="9833" interior="0" dimension="0" posX="2862.9826660156" posY="-1476.8138427734" posZ="758.25738525391" rotX="0" rotY="0" rotZ="0" />
+    <object id="object (bigsprunkpole) (1)" doublesided="false" model="13562" interior="0" dimension="0" posX="2919.4467773438" posY="-1461.8234863281" posZ="757.03033447266" rotX="0" rotY="0" rotZ="0" />
+    <object id="object (crates) (1)" doublesided="false" model="18257" interior="0" dimension="0" posX="2886.0778808594" posY="-1506.9440917969" posZ="752.44104003906" rotX="0" rotY="0" rotZ="238" />
+    <object id="object (vicjump_sfe) (1)" doublesided="false" model="10244" interior="0" dimension="0" posX="2905.2746582031" posY="-1491.7467041016" posZ="747.82653808594" rotX="0" rotY="0" rotZ="180" />
+    <object id="object (CJ_EXT_SPRUNK) (1)" doublesided="false" model="955" interior="0" dimension="0" posX="2855.8845214844" posY="-1471.7781982422" posZ="746.49713134766" rotX="0" rotY="0" rotZ="266" />
+    <object id="object (vgsxrefbballnet) (1)" doublesided="false" model="3496" interior="0" dimension="0" posX="2845.94140625" posY="-1480.9040527344" posZ="746.49713134766" rotX="0" rotY="0" rotZ="0" />
+    <object id="object (vgsxrefbballnet2) (1)" doublesided="false" model="3497" interior="0" dimension="0" posX="2945.6049804688" posY="-1506.7962646484" posZ="749.78698730469" rotX="0" rotY="0" rotZ="0" />
+    <object id="object (castable1) (1)" doublesided="false" model="2802" interior="0" dimension="0" posX="2852.5144042969" posY="-1472.6265869141" posZ="746.82739257813" rotX="0" rotY="0" rotZ="0" />
+    <object id="object (castable1) (2)" doublesided="false" model="2802" interior="0" dimension="0" posX="2850.4516601563" posY="-1474.9663085938" posZ="746.82739257813" rotX="0" rotY="0" rotZ="252" />
+    <Team1 id="Team1 (1)" posX="2949.3513183594" posY="-1496.384765625" posZ="747.49713134766" rotX="0" rotY="0" rotZ="90" />
+    <Team1 id="Team1 (2)" interior="0" posX="2949.3522949219" posY="-1498.1514892578" posZ="747.49713134766" rotX="0" rotY="0" rotZ="92" />
+    <Team1 id="Team1 (3)" interior="0" posX="2949.5634765625" posY="-1500.1883544922" posZ="747.49713134766" rotX="0" rotY="0" rotZ="93.99951171875" />
+    <Team1 id="Team1 (4)" interior="0" posX="2949.8383789063" posY="-1502.6951904297" posZ="747.49713134766" rotX="0" rotY="0" rotZ="95.9990234375" />
+    <Team1 id="Team1 (5)" interior="0" posX="2948.37890625" posY="-1502.8041992188" posZ="747.49713134766" rotX="0" rotY="0" rotZ="99.99853515625" />
+    <Team1 id="Team1 (6)" interior="0" posX="2948.244140625" posY="-1500.1477050781" posZ="747.49713134766" rotX="0" rotY="0" rotZ="91.99755859375" />
+    <Team1 id="Team1 (7)" interior="0" posX="2948.0639648438" posY="-1497.8422851563" posZ="747.49713134766" rotX="0" rotY="0" rotZ="93.994018554688" />
+    <Team1 id="Team1 (8)" interior="0" posX="2947.9157714844" posY="-1496.1142578125" posZ="747.49713134766" rotX="0" rotY="0" rotZ="95.993530273438" />
+    <Team1 id="Team1 (9)" interior="0" posX="2946.5568847656" posY="-1497.8746337891" posZ="747.49713134766" rotX="0" rotY="0" rotZ="97.993041992188" />
+    <Team1 id="Team1 (10)" interior="0" posX="2946.7421875" posY="-1500.2250976563" posZ="747.49713134766" rotX="0" rotY="0" rotZ="93.992553710938" />
+    <Team2 id="Team2 (1)" posX="2842.0219726563" posY="-1476.0659179688" posZ="747.49713134766" rotX="0" rotY="0" rotZ="270" />
+    <Team2 id="Team2 (2)" interior="0" posX="2842.1171875" posY="-1474.0987548828" posZ="747.49713134766" rotX="0" rotY="0" rotZ="266" />
+    <Team2 id="Team2 (3)" interior="0" posX="2842.05078125" posY="-1472.1105957031" posZ="747.49713134766" rotX="0" rotY="0" rotZ="263.99548339844" />
+    <Team2 id="Team2 (4)" interior="0" posX="2841.984375" posY="-1470.1223144531" posZ="747.49713134766" rotX="0" rotY="0" rotZ="265.99047851563" />
+    <Team2 id="Team2 (5)" interior="0" posX="2843.7905273438" posY="-1470.1824951172" posZ="747.49713134766" rotX="0" rotY="0" rotZ="263.98999023438" />
+    <Team2 id="Team2 (6)" interior="0" posX="2843.6962890625" posY="-1471.9844970703" posZ="747.49713134766" rotX="0" rotY="0" rotZ="261.98498535156" />
+    <Team2 id="Team2 (7)" interior="0" posX="2843.6857910156" posY="-1474.1348876953" posZ="747.49713134766" rotX="0" rotY="0" rotZ="267.97998046875" />
+    <Team2 id="Team2 (8)" interior="0" posX="2843.50390625" posY="-1476.0874023438" posZ="747.49713134766" rotX="0" rotY="0" rotZ="269.978515625" />
+    <Team2 id="Team2 (9)" interior="0" posX="2845.2905273438" posY="-1474.2631835938" posZ="747.49713134766" rotX="0" rotY="0" rotZ="267.97802734375" />
+    <Team2 id="Team2 (10)" interior="0" posX="2845.5500488281" posY="-1471.8237304688" posZ="747.49713134766" rotX="0" rotY="0" rotZ="267.97302246094" />
+    <Central_Marker id="Central_Marker (1)" posX="2902.6511230469" posY="-1498.1358642578" posZ="752.42303466797" rotX="0" rotY="0" rotZ="0" />
+    <object id="object (subwaygate) (1)" doublesided="false" model="971" interior="0" dimension="0" posX="2904.9873046875" posY="-1470.48828125" posZ="749.15551757813" rotX="0" rotY="0" rotZ="0" />
+    <Anti_Rush_Point id="Anti_Rush_Point (52)" posX="2915.6301269531" posY="-1523.0085449219" posZ="750.79364013672" rotX="0" rotY="0" rotZ="0" />
+    <Anti_Rush_Point id="Anti_Rush_Point (53)" posX="2940.3530273438" posY="-1523.5295410156" posZ="750.85681152344" rotX="0" rotY="0" rotZ="0" />
+    <Anti_Rush_Point id="Anti_Rush_Point (54)" posX="2942.2023925781" posY="-1527.1595458984" posZ="755.33801269531" rotX="0" rotY="0" rotZ="0" />
+    <Anti_Rush_Point id="Anti_Rush_Point (55)" posX="2947.8200683594" posY="-1518.9382324219" posZ="754.98040771484" rotX="0" rotY="0" rotZ="0" />
+    <Anti_Rush_Point id="Anti_Rush_Point (56)" posX="2947.8469238281" posY="-1511.9652099609" posZ="752.17163085938" rotX="0" rotY="0" rotZ="0" />
+    <Anti_Rush_Point id="Anti_Rush_Point (57)" posX="2957.0234375" posY="-1507.6221923828" posZ="750.84851074219" rotX="0" rotY="0" rotZ="0" />
+    <Anti_Rush_Point id="Anti_Rush_Point (58)" posX="2958.9636230469" posY="-1496.4576416016" posZ="750.43481445313" rotX="0" rotY="0" rotZ="0" />
+    <Anti_Rush_Point id="Anti_Rush_Point (63)" posX="2955.9790039063" posY="-1488.9102783203" posZ="752.03930664063" rotX="0" rotY="0" rotZ="0" />
+    <Anti_Rush_Point id="Anti_Rush_Point (64)" posX="2949.6044921875" posY="-1482.4102783203" posZ="751.84301757813" rotX="0" rotY="0" rotZ="0" />
+    <Anti_Rush_Point id="Anti_Rush_Point (65)" posX="2947.2504882813" posY="-1480.3685302734" posZ="751.90484619141" rotX="0" rotY="0" rotZ="0" />
+    <Anti_Rush_Point id="Anti_Rush_Point (66)" posX="2934.5700683594" posY="-1479.0279541016" posZ="751.94543457031" rotX="0" rotY="0" rotZ="0" />
+    <Anti_Rush_Point id="Anti_Rush_Point (69)" posX="2908.4060058594" posY="-1478.4086914063" posZ="752.52276611328" rotX="0" rotY="0" rotZ="0" />
+    <Anti_Rush_Point id="Anti_Rush_Point (70)" posX="2908.1376953125" posY="-1470.0363769531" posZ="757.08374023438" rotX="0" rotY="0" rotZ="0" />
+    <Anti_Rush_Point id="Anti_Rush_Point (71)" posX="2902.1354980469" posY="-1468.2700195313" posZ="755.14959716797" rotX="0" rotY="0" rotZ="0" />
+    <Anti_Rush_Point id="Anti_Rush_Point (72)" posX="2891.0969238281" posY="-1467.9671630859" posZ="750.90850830078" rotX="0" rotY="0" rotZ="0" />
+    <Anti_Rush_Point id="Anti_Rush_Point (73)" posX="2890.0930175781" posY="-1460.0289306641" posZ="750.99743652344" rotX="0" rotY="0" rotZ="0" />
+    <Anti_Rush_Point id="Anti_Rush_Point (74)" posX="2889.7392578125" posY="-1455.7647705078" posZ="751.79254150391" rotX="0" rotY="0" rotZ="0" />
+    <Anti_Rush_Point id="Anti_Rush_Point (75)" posX="2885.1044921875" posY="-1455.6446533203" posZ="751.76550292969" rotX="0" rotY="0" rotZ="0" />
+    <Anti_Rush_Point id="Anti_Rush_Point (76)" posX="2887.1430664063" posY="-1451.7102050781" posZ="753.91070556641" rotX="0" rotY="0" rotZ="0" />
+    <Anti_Rush_Point id="Anti_Rush_Point (77)" posX="2848.7739257813" posY="-1447.9655761719" posZ="751.44079589844" rotX="0" rotY="0" rotZ="0" />
+    <Anti_Rush_Point id="Anti_Rush_Point (78)" posX="2838.5832519531" posY="-1447.9138183594" posZ="754.21258544922" rotX="0" rotY="0" rotZ="0" />
+    <Anti_Rush_Point id="Anti_Rush_Point (79)" posX="2837.2158203125" posY="-1452.0947265625" posZ="753.42749023438" rotX="0" rotY="0" rotZ="0" />
+    <Anti_Rush_Point id="Anti_Rush_Point (80)" posX="2835.3291015625" posY="-1456.2109375" posZ="756.26666259766" rotX="0" rotY="0" rotZ="0" />
+    <Anti_Rush_Point id="Anti_Rush_Point (81)" posX="2834.8127441406" posY="-1474.3063964844" posZ="751.34796142578" rotX="0" rotY="0" rotZ="0" />
+    <Anti_Rush_Point id="Anti_Rush_Point (82)" posX="2835.2641601563" posY="-1480.8432617188" posZ="751.23406982422" rotX="0" rotY="0" rotZ="0" />
+    <Anti_Rush_Point id="Anti_Rush_Point (83)" posX="2837.2685546875" posY="-1481.3724365234" posZ="750.87158203125" rotX="0" rotY="0" rotZ="0" />
+    <Anti_Rush_Point id="Anti_Rush_Point (84)" posX="2837.0361328125" posY="-1489.68359375" posZ="750.89147949219" rotX="0" rotY="0" rotZ="0" />
+    <Anti_Rush_Point id="Anti_Rush_Point (85)" posX="2842.6872558594" posY="-1491.0062255859" posZ="752.32604980469" rotX="0" rotY="0" rotZ="0" />
+    <Anti_Rush_Point id="Anti_Rush_Point (86)" posX="2846.1520996094" posY="-1493.8394775391" posZ="751.19439697266" rotX="0" rotY="0" rotZ="0" />
+    <Anti_Rush_Point id="Anti_Rush_Point (88)" posX="2845.1662597656" posY="-1496.6751708984" posZ="756.91046142578" rotX="0" rotY="0" rotZ="0" />
+    <Anti_Rush_Point id="Anti_Rush_Point (89)" posX="2854.359375" posY="-1499.8587646484" posZ="756.55511474609" rotX="0" rotY="0" rotZ="0" />
+    <Anti_Rush_Point id="Anti_Rush_Point (90)" posX="2857.9853515625" posY="-1504.4620361328" posZ="751.77423095703" rotX="0" rotY="0" rotZ="0" />
+    <Anti_Rush_Point id="Anti_Rush_Point (91)" posX="2858.396484375" posY="-1521.1518554688" posZ="752.02984619141" rotX="0" rotY="0" rotZ="0" />
+    <Anti_Rush_Point id="Anti_Rush_Point (94)" posX="2859.2253417969" posY="-1525.7044677734" posZ="754.30792236328" rotX="0" rotY="0" rotZ="0" />
+    <Anti_Rush_Point id="Anti_Rush_Point (95)" posX="2910.2666015625" posY="-1524.3475341797" posZ="753.66839599609" rotX="0" rotY="0" rotZ="0" />
+    <Anti_Rush_Point id="Anti_Rush_Point (96)" posX="2915.5383300781" posY="-1523.0716552734" posZ="750.70770263672" rotX="0" rotY="0" rotZ="0" />
+    <Flag1 id="Flag1 (1)" posX="2954.984375" posY="-1495.7349853516" posZ="746.53552246094" rotX="0" rotY="0" rotZ="0" />
+    <Flag2 id="Flag2 (1)" posX="2842.4172363281" posY="-1479.4553222656" posZ="746.53552246094" rotX="0" rotY="0" rotZ="0" />
+</map>

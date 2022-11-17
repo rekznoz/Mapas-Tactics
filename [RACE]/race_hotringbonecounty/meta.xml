@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-16"?>
+<meta>
+  <info type="map" gamemodes="race" name="HOTRING[Bone County]" author="MadMax(darles92)" description="HOTRING Racing of San Andreas Series Tour - Bone County - 15 cars." />
+  <map src="HOTRING[Bone County].map" />
+  <settings>
+    <setting name="#time" value="9:0" />
+    <setting name="#weather" value="3" />
+    <setting name="#respawn" value="timelimit" />
+    <setting name="#duration" value="4294966" />
+  </settings>
+</meta>
